@@ -93,6 +93,7 @@ Hey! I'm making this for all the anime lovers. It includes anime series and movi
 - Cautious Hero
 - Noragami
 - Rikekoi
+- Rent a Girlfriend
 
 ## 💕Romance
 
@@ -145,6 +146,8 @@ Hey! I'm making this for all the anime lovers. It includes anime series and movi
 - Made in Abyss
 - Akame ga kill
 - Is it wrong to pick girls in dungeon?
+- The Rising of the Shield Hero
+- Welcome to Demon School
 
 ## 🥳ADVENTURE
 
