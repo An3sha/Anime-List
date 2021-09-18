@@ -163,3 +163,17 @@ Hey! I'm making this for all the anime lovers. It includes anime series and movi
 - Goblin slayer
 
 
+## 🎬Some more movies 
+
+- Spirited away
+- A silent voice
+- The girl who leapt through time
+- Ponyo
+- A whisker away
+- Tenki no ko
+- I want to eat your pancreas
+- Patema inverted
+- Into the forest of fireflies light
+- Grave of fireflies
+- Wolf children
+- Flavours of youth 
