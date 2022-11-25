@@ -376,9 +376,6 @@ Feel free to add your favorite animes too xD
 </a></td>
 </tr>
 
-
-
-
 </table> 
 
 ----------------
@@ -502,16 +499,118 @@ Feel free to add your favorite animes too xD
 
 ## 🔥Sci-Fi / Mecha
 
-- Steins gate
-- Fullmetal panic
-- Neon genesis
-- God eater
-- Gurren lagann
-- Mobile suit gundam
-- Dr stone
-- Knights and magic
-- Ghost in the shell
-- Code geass
+<table class="tg">
+<tr>
+  <th class="tg-yw4l"><b>Sr. No</b></th>
+  <th class="tg-yw4l"><b>Title</b></th>
+  <th class="tg-yw4l"><b>Description</b></th>
+  <th class="tg-yw4l"><b>Where to Watch?</b></th>
+    
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">1.</td>
+  <td class="tg-yw4l">Steins gate</td>
+  <td class="tg-yw4l">The self-proclaimed mad scientist Rintarou Okabe rents out a room in a rickety old building in Akihabara, where he indulges himself in his hobby of inventing prospective "future gadgets" with fellow lab members</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/steinsgate-3?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">2.</td>
+  <td class="tg-yw4l">Fullmetal panic</td>
+  <td class="tg-yw4l">Equipped with cutting-edge weaponry and specialized troops, a private military organization named Mithril strives to extinguish the world's terrorism and all threats to peace on earth.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/full-metal-panic-1116?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">3.</td>
+  <td class="tg-yw4l">Neon genesis</td>
+  <td class="tg-yw4l">In the year 2015, the world stands on the brink of destruction. Humanity's last hope lies in the hands of Nerv, a special agency under the United Nations, and their Evangelions, giant machines capable of defeating the Angels</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/neon-genesis-evangelion-209?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">4.</td>
+  <td class="tg-yw4l">God eater</td>
+  <td class="tg-yw4l">The year is 2071. Humanity has been pushed to the brink of extinction following the emergence of man-eating monsters called "Aragami" that boast an immunity to conventional weaponry. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/god-eater-2215?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">5.</td>
+  <td class="tg-yw4l">Gurren lagann</td>
+  <td class="tg-yw4l">Simon and Kamina were born and raised in a deep, underground village, hidden from the fabled surface. Kamina is a free-spirited loose cannon bent on making a name for himself, while Simon is a timid young boy with no real aspirations.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/gurren-lagann-45?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">6.</td>
+  <td class="tg-yw4l">Mobile suit gundam</td>
+  <td class="tg-yw4l">It is year 0079 of the Universal Century. Mankind has moved to space, living in colony clusters known as "Sides." One of these Sides declares itself the "Principality of Zeon" and declares war on the Earth Federation, the governmental body currently ruling Earth</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/mobile-suit-gundam-856?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">7.</td>
+  <td class="tg-yw4l">Dr stone</td>
+  <td class="tg-yw4l">After five years of harboring unspoken feelings, high-schooler Taiju Ooki is finally ready to confess his love to Yuzuriha Ogawa. Just when Taiju begins his confession however, a blinding green light strikes the Earth and petrifies mankind around the world—turning every single human into stone.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/mobile-suit-gundam-856?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">8.</td>
+  <td class="tg-yw4l">Knights and magic</td>
+  <td class="tg-yw4l">Having died in a car accident, Tsubasa Kurata—an otaku from modern Japan—is reborn in the Fremmevilla Kingdom, a medieval world where powerful mechs called Silhouette Knights are used to fight horrific demonic beasts.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/knights-magic-2919?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+
+<tr>
+  <td class="tg-yw4l">9.</td>
+  <td class="tg-yw4l">Ghost in the shell</td>
+  <td class="tg-yw4l">In the year 2029, Niihama City has become a technologically advanced metropolis. Due to great improvements in cybernetics, its citizens are able to replace their limbs with robotic parts.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/ghost-in-the-shell-220?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+
+<tr>
+  <td class="tg-yw4l">10.</td>
+  <td class="tg-yw4l">Code geass</td>
+  <td class="tg-yw4l">In an alternative timeline, the world is divided into three superpowers: the Holy Britannian Empire (the Americas; also called Britannia), the Chinese Federation (Asia), and the Europa United (Europe and Africa). The story takes place after the Holy Britannian Empire's conquest of Japan on August 10, 2010</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/search?keyword=Code+geass">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+</table> 
+
 
 ## ⚠️Mystery
 
