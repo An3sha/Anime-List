@@ -144,6 +144,13 @@ Feel free to add your favorite animes too xD
 ## 🔅Supernatural
 
 
+
+![](https://github.com/MonitSharma/Anime-List/blob/main/supernat.png)
+
+---------
+--------
+
+
 <table class="tg">
 <tr>
   <th class="tg-yw4l"><b>Sr. No</b></th>
@@ -273,8 +280,9 @@ Feel free to add your favorite animes too xD
 
 ## ❄️Magic
 
-
-
+![](https://github.com/MonitSharma/Anime-List/blob/main/magic.png)
+-------------------
+----------------
 <table class="tg">
 <tr>
   <th class="tg-yw4l"><b>Sr. No</b></th>
@@ -392,6 +400,11 @@ Feel free to add your favorite animes too xD
 
 ## 🪐Slice of life
 
+![](https://github.com/MonitSharma/Anime-List/blob/main/sliceoflife.png)
+
+-------------
+----------
+
 <table class="tg">
 <tr>
   <th class="tg-yw4l"><b>Sr. No</b></th>
@@ -508,6 +521,11 @@ Feel free to add your favorite animes too xD
 
 
 ## 🔥Sci-Fi / Mecha
+
+![](https://github.com/MonitSharma/Anime-List/blob/main/sci.png)
+
+--------------
+--------------
 
 <table class="tg">
 <tr>
