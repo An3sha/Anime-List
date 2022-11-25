@@ -1182,50 +1182,228 @@ Feel free to add your favorite animes too xD
 
 # 💫Fantasy
 
+![alt]()
+
+-----------------
+-------------
+
+<table class="tg">
+<tr>
+  <th class="tg-yw4l"><b>Sr. No</b></th>
+  <th class="tg-yw4l"><b>Title</b></th>
+  <th class="tg-yw4l"><b>Description</b></th>
+  <th class="tg-yw4l"><b>Where to Watch?</b></th>
+    
+</tr>
 
 
+<tr>
+  <td class="tg-yw4l">1.</td>
+  <td class="tg-yw4l">The seven deadly sins! </td>
+  <td class="tg-yw4l">In a world similar to the European Middle Ages, the feared yet revered Holy Knights of Britannia use immensely powerful magic to protect the region of Britannia and its kingdoms. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/the-seven-deadly-sins-561?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
 
 
+<tr>
+  <td class="tg-yw4l">2.</td>
+  <td class="tg-yw4l">Sword art online  </td>
+  <td class="tg-yw4l">In the year 2022, virtual reality has progressed by leaps and bounds, and a massive online role-playing game called Sword Art Online (SAO) is launched </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/sword-art-online-2274?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">3.</td>
+  <td class="tg-yw4l">Fairy tail </td>
+  <td class="tg-yw4l">In the mystical land of Fiore, magic exists as an essential part of everyday life. Countless magic guilds lie at the core of all magical activity, and serve as venues for like-minded mages to band together and take on job requests.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/fairy-tail-930?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
 
 
-- The seven deadly sins!
-- Sword art online 
-- Fairy tail
-- Re:Zero- Starting life in Another world
-- No game No life
-- Log horizon
-- How not to summon a demon lord 
-- Made in Abyss
-- Akame ga kill
-- Is it wrong to pick girls in dungeon?
-- The Rising of the Shield Hero
-- Welcome to Demon School
+<tr>
+  <td class="tg-yw4l">4.</td>
+  <td class="tg-yw4l">No Game, No Life </td>
+  <td class="tg-yw4l">No Game No Life is a surreal comedy that follows Sora and Shiro, shut-in NEET siblings and the online gamer duo behind the legendary username "Blank." They view the real world as just another lousy game</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/no-game-no-life-261?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">5.</td>
+  <td class="tg-yw4l">Log horizon </td>
+  <td class="tg-yw4l">In the blink of an eye, thirty thousand bewildered Japanese gamers are whisked from their everyday lives into the world of the popular MMORPG, Elder Tale, after the game's latest update—unable to log out</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/log-horizon-514?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">6.</td>
+  <td class="tg-yw4l"> How Not to Summon a Demon Lord</td>
+  <td class="tg-yw4l">When it comes to the fantasy MMORPG Cross Reverie, none can match the power of the Demon King Diablo. Possessing the game's rarest artifacts and an unrivaled player level, he overpowers all foolish enough to confront him</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/how-not-to-summon-a-demon-lord-3503?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">7.</td>
+  <td class="tg-yw4l">Welcome to Demon School! Iruma-kun</td>
+  <td class="tg-yw4l">Fourteen-year-old Iruma Suzuki has been unfortunate all his life, having to work to earn money for his irresponsible parents despite being underage. One day, he finds out that his parents sold him to the demon Sullivan.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/welcome-to-demon-school-iruma-kun-966?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+</table>
+-------------
 
 # 🥳ADVENTURE
 
-- One piece
-- Naruto
-- Full metal alchemist
-- Hunter x hunter
-- Jojo's bizzare adventure
-- Samurai champloo
-- Bungou stray dogs
-- Castlevania
-- Claymore
-- Goblin slayer
+![alt]()
+
+
+-----------------
+--------------
+<table class="tg">
+<tr>
+  <th class="tg-yw4l"><b>Sr. No</b></th>
+  <th class="tg-yw4l"><b>Title</b></th>
+  <th class="tg-yw4l"><b>Description</b></th>
+  <th class="tg-yw4l"><b>Where to Watch?</b></th>
+    
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">1.</td>
+  <td class="tg-yw4l">One piece </td>
+  <td class="tg-yw4l">Gold Roger was known as the "Pirate King," the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world.  </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/one-piece-100?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">2.</td>
+  <td class="tg-yw4l">Naruto </td>
+  <td class="tg-yw4l">Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/naruto-677?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">3.</td>
+  <td class="tg-yw4l">Full metal alchemist</td>
+  <td class="tg-yw4l"> Edward Elric, a young, brilliant alchemist, has lost much in his twelve-year life: when he and his brother Alphonse try to resurrect their dead mother through the forbidden act of human transmutation, Edward loses his brother as well as two of his limbs. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/fullmetal-alchemist-308?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">4.</td>
+  <td class="tg-yw4l">Hunter x Hunter</td>
+  <td class="tg-yw4l"> Hunter x Hunter is set in a world where Hunters exist to perform all manner of dangerous tasks like capturing criminals and bravely searching for lost treasures in uncharted territories.  </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/hunter-x-hunter-2?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">5.</td>
+  <td class="tg-yw4l">Jojo's bizzare adventure</td>
+  <td class="tg-yw4l"> In 1868, Dario Brando saves the life of an English nobleman, George Joestar. By taking in Dario's son Dio when the boy becomes fatherless, George hopes to repay the debt he owes to his savior. However Dio, unsatisfied with his station in life, aspires to seize the Joestar house for his own. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/search?keyword=Jojo%27s+bizzare+adventure">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">6.</td>
+  <td class="tg-yw4l">Castlevania</td>
+  <td class="tg-yw4l"> When his wife is burned at the stake after being falsely accused of witchcraft, the vampire Count Vlad Dracula Țepeș declares all the people of Wallachia will pay with their lives. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/castlevania-17870?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+</table>
 
 
 # 🎬Some more movies 
 
-- Spirited away
-- A silent voice
-- The girl who leapt through time
-- Ponyo
-- A whisker away
-- Tenki no ko
-- I want to eat your pancreas
-- Patema inverted
-- Into the forest of fireflies light
-- Grave of fireflies
-- Wolf children
-- Flavours of youth 
+![alt]()
+
+----------------
+--------------
+
+<table class="tg">
+<tr>
+  <th class="tg-yw4l"><b>Sr. No</b></th>
+  <th class="tg-yw4l"><b>Title</b></th>
+  <th class="tg-yw4l"><b>Description</b></th>
+  <th class="tg-yw4l"><b>Where to Watch?</b></th>
+    
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">1.</td>
+  <td class="tg-yw4l">Spirited away </td>
+  <td class="tg-yw4l">Stubborn, spoiled, and naïve, 10-year-old Chihiro Ogino is less than pleased when she and her parents discover an abandoned amusement park on the way to their new house. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/spirited-away-20?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">2.</td>
+  <td class="tg-yw4l">A silent voice</td>
+  <td class="tg-yw4l">As a wild youth, elementary school student Shouya Ishida sought to beat boredom in the cruelest ways. When the deaf Shouko Nishimiya transfers into his class, Shouya and the rest of his class thoughtlessly bully her for fun. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/a-silent-voice-11?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">3.</td>
+  <td class="tg-yw4l">The girl who leapt through time</td>
+  <td class="tg-yw4l">Makoto Konno is in her last year of high school, but is having a hard time deciding what to do with her future. In between enduring the pressure of her teachers and killing time with her best friends, Makoto's life suddenly changes when she accidentally discovers that she is capable of literally leaping through time. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/the-girl-who-leapt-through-time-285?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">4.</td>
+  <td class="tg-yw4l">Ponyo</td>
+  <td class="tg-yw4l">A goldfish sneaks away from home and floats off on the back of a jellyfish. After getting stuck in a glass jar, she drifts to the shore where she is freed by Sousuke, a five-year-old boy who lives with his mother Lisa in a house by the sea while his father Koichi works on a fishing boat.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/ponyo-671?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">5.</td>
+  <td class="tg-yw4l">I want to eat your pancreas</td>
+  <td class="tg-yw4l">The aloof protagonist: a bookworm who is deeply detached from the world he resides in. He has no interest in others and is firmly convinced that nobody has any interest in him either</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/i-want-to-eat-your-pancreas-70?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+</table>
