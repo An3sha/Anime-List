@@ -1168,9 +1168,7 @@ Feel free to add your favorite animes too xD
 
 <tr>
   <td class="tg-yw4l">7.</td>
-  <td class="tg-yw4l">Danganronpa<tr>
-  
-  
+  <td class="tg-yw4l">Danganronpa</td>
   <td class="tg-yw4l">Hope's Peak Academy is an elite high school that accepts only the most talented students. Individuals who successfully enroll receive their own unique titles, suitably reflective of their skills and traits. </td>   
   <td class="tg-yw4l"><a href="https://zoro.to/danganronpa-the-animation-2237?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
