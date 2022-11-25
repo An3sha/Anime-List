@@ -866,20 +866,113 @@ Feel free to add your favorite animes too xD
 
 </table>
 
+
+-----------
+
+
+
 # 💕Romance
 
-- As the moon, so beautiful
-- Your Lie in April
-- A lull in the sea
-- Clannad
-- Toradora!
-- 3d girlfriend
-- Golden time
-- Darling in the franxx
-- Relife
-- Tsuredure Children
+
+---------
+-----------
+
+
+<table class="tg">
+<tr>
+  <th class="tg-yw4l"><b>Sr. No</b></th>
+  <th class="tg-yw4l"><b>Title</b></th>
+  <th class="tg-yw4l"><b>Description</b></th>
+  <th class="tg-yw4l"><b>Where to Watch?</b></th>
+    
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">1.</td>
+  <td class="tg-yw4l">As the moon, so beautiful/Tsukigakirei </td>
+  <td class="tg-yw4l">With a new school year comes a new crowd of classmates, and for their final year of junior high, aspiring writer Kotarou Azumi and track team member Akane Mizuno end up in the same class. Though initially complete strangers, a few chance encounters stir an innocent desire within their hearts.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/tsukigakirei-296?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+  
+<tr>
+  <td class="tg-yw4l">2.</td>
+  <td class="tg-yw4l">Your Lie in April </td>
+  <td class="tg-yw4l">Music accompanies the path of the human metronome, the prodigious pianist Kousei Arima. But after the passing of his mother, Saki Arima, Kousei falls into a downward spiral, rendering him unable to hear the sound of his own piano.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/your-lie-in-april-31?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+  
+  
+<tr>
+  <td class="tg-yw4l">3.</td>
+  <td class="tg-yw4l">A lull in the sea</td>
+  <td class="tg-yw4l">Long ago, all humans lived beneath the sea. However, some people preferred the surface and abandoned living underwater permanently. As a consequence, they were stripped of their god-given protection called "Ena" which allowed them to breathe underwater.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/a-lull-in-the-sea-395?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+  
+
+<tr>
+  <td class="tg-yw4l">4.</td>
+  <td class="tg-yw4l">Clannad</td>
+  <td class="tg-yw4l">Tomoya Okazaki is a cynical delinquent who lacks ambition as he apathetically labors through high school. During his childhood, a tragedy had caused his father to seek solace in alcoholism and neglect his son. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/clannad-the-movie-2553?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+  
+  
+<tr>
+  <td class="tg-yw4l">6.</td>
+  <td class="tg-yw4l">Toradora!</td>
+  <td class="tg-yw4l">Ryuuji Takasu is a gentle high school student with a love for housework; but in contrast to his kind nature, he has an intimidating face that often gets him labeled as a delinquent </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/toradora-232?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+  
+  
+<tr>
+  <td class="tg-yw4l">7.</td>
+  <td class="tg-yw4l">Golden time</td>
+  <td class="tg-yw4l">Due to a tragic accident, Banri Tada is struck with amnesia, dissolving the memories of his hometown and past. However, after befriending Mitsuo Yanagisawa, he decides to move on and begin a new life at law school in Tokyo </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/golden-time-849?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+  
+<tr>
+  <td class="tg-yw4l">8.</td>
+  <td class="tg-yw4l">Relife</td>
+  <td class="tg-yw4l">Dismissed as a hopeless loser by those around him, 27-year-old Arata Kaizaki bounces around from one job to another after quitting his first company. His unremarkable existence takes a sharp turn when he meets Ryou Yoake,</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/relife-471?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+</table>
+
+
+---------------------
+
 
 # 🔫ACTION
+
+
+
+
+
+----------
+-------------
+
+
+
 
 - My hero academia
 - Bleach
