@@ -972,18 +972,117 @@ Feel free to add your favorite animes too xD
 -------------
 
 
+<table class="tg">
+<tr>
+  <th class="tg-yw4l"><b>Sr. No</b></th>
+  <th class="tg-yw4l"><b>Title</b></th>
+  <th class="tg-yw4l"><b>Description</b></th>
+  <th class="tg-yw4l"><b>Where to Watch?</b></th>
+    
+</tr>
 
 
-- My hero academia
-- Bleach
-- Dragon ball
-- Attack on titan
-- One punch man
-- Hellsing series
-- Demon slayer
-- Junni Taisen
-- Assasination classroom
-- Baki
+<tr>
+  <td class="tg-yw4l">1.</td>
+  <td class="tg-yw4l">My hero academia </td>
+  <td class="tg-yw4l">The appearance of "quirks," newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/my-hero-academia-322?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">2.</td>
+  <td class="tg-yw4l">Bleach</td>
+  <td class="tg-yw4l">Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. It is then that he meets a Soul Reaper named Rukia Kuchiki, who gets injured while protecting Ichigo's family</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/bleach-806?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">3.</td>
+  <td class="tg-yw4l">Dragon Ball</td>
+  <td class="tg-yw4l">SON-Goku is a young boy who lives in the woods all alone—that is, until a girl named Bulma runs into him in her search for a set of magical objects called the "Dragon Balls." Since the artifacts are said to grant one wish to whoever collects all seven,</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/dragon-ball-509?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">4.</td>
+  <td class="tg-yw4l">Attack on titan</td>
+  <td class="tg-yw4l">Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/attack-on-titan-112?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">5.</td>
+  <td class="tg-yw4l">One punch man</td>
+  <td class="tg-yw4l">The seemingly ordinary and unimpressive Saitama has a rather unique hobby: being a hero. In order to pursue his childhood dream, he trained relentlessly for three years—and lost all of his hair in the process.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/one-punch-man-63?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">6.</td>
+  <td class="tg-yw4l">Demon slayer</td>
+  <td class="tg-yw4l">Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/demon-slayer-kimetsu-no-yaiba-47?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">7.</td>
+  <td class="tg-yw4l">Assasination classroom</td>
+  <td class="tg-yw4l">When a mysterious creature chops the moon down to a permanent crescent, the students of class 3-E of Kunugigaoka Middle School find themselves confronted with an enormous task: assassinate the creature responsible for the disaster before Earth suffers a similar fate.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/assassination-classroom-372?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">8.</td>
+  <td class="tg-yw4l">Baki</td>
+  <td class="tg-yw4l">After emerging victorious from a brutal underground tournament, Baki Hanma continues on his path to defeat his father, Yuujirou, the strongest man in the world.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/baki-2649?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">9.</td>
+  <td class="tg-yw4l">Jujutsu Kaisen</td>
+  <td class="tg-yw4l">Idly indulging in baseless paranormal activities with the Occult Club, high schooler Yuuji Itadori spends his days at either the clubroom or the hospital, where he visits his bedridden grandfather</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/jujutsu-kaisen-tv-534?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">10.</td>
+  <td class="tg-yw4l">Chainsaw Man</td>
+  <td class="tg-yw4l">Denji has a simple dream—to live a happy and peaceful life, spending time with a girl he likes. This is a far cry from reality, however, as Denji is forced by the yakuza into killing devils in order to pay off his crushing debts</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/chainsaw-man-17406?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+---------------
+
 
 # 🧟Horror
 
