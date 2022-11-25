@@ -10,7 +10,7 @@ Feel free to add your favorite animes too xD
 ---------
 
 
-## 👁Psychological
+# 👁Psychological
 
 ![](https://github.com/MonitSharma/Anime-List/blob/main/Psycho.png)
 
@@ -141,7 +141,7 @@ Feel free to add your favorite animes too xD
 -------
 
 
-## 🔅Supernatural
+# 🔅Supernatural
 
 
 
@@ -278,7 +278,7 @@ Feel free to add your favorite animes too xD
 --------------
 
 
-## ❄️Magic
+# ❄️Magic
 
 ![](https://github.com/MonitSharma/Anime-List/blob/main/magic.png)
 -------------------
@@ -398,7 +398,7 @@ Feel free to add your favorite animes too xD
 
 ----------------
 
-## 🪐Slice of life
+# 🪐Slice of life
 
 ![](https://github.com/MonitSharma/Anime-List/blob/main/sliceoflife.png)
 
@@ -520,7 +520,7 @@ Feel free to add your favorite animes too xD
 ------
 
 
-## 🔥Sci-Fi / Mecha
+# 🔥Sci-Fi / Mecha
 
 ![](https://github.com/MonitSharma/Anime-List/blob/main/sci.png)
 
@@ -641,7 +641,7 @@ Feel free to add your favorite animes too xD
 
 --------------------
 
-## ⚠️Mystery
+# ⚠️Mystery
 
 
 ![](https://github.com/MonitSharma/Anime-List/blob/main/mystery.png)
@@ -747,7 +747,7 @@ Feel free to add your favorite animes too xD
 </table>
 
 
-## 🏟Comedy
+# 🏟Comedy
 
 - Konosuba
 - My teen romantic comedy
@@ -760,8 +760,9 @@ Feel free to add your favorite animes too xD
 - Noragami
 - Rikekoi
 - Rent a Girlfriend
+- Prison Break
 
-## 💕Romance
+# 💕Romance
 
 - As the moon, so beautiful
 - Your Lie in April
@@ -774,7 +775,7 @@ Feel free to add your favorite animes too xD
 - Relife
 - Tsuredure Children
 
-## 🔫ACTION
+# 🔫ACTION
 
 - My hero academia
 - Bleach
@@ -787,7 +788,7 @@ Feel free to add your favorite animes too xD
 - Assasination classroom
 - Baki
 
-## 🧟Horror
+# 🧟Horror
 
 - Angels of Death
 - Kabaneri of the iron fortress
@@ -800,7 +801,7 @@ Feel free to add your favorite animes too xD
 - Danganronpa
 - Elfen Lied
 
-## 💫Fantasy
+# 💫Fantasy
 
 - The seven deadly sins!
 - Sword art online 
@@ -815,7 +816,7 @@ Feel free to add your favorite animes too xD
 - The Rising of the Shield Hero
 - Welcome to Demon School
 
-## 🥳ADVENTURE
+# 🥳ADVENTURE
 
 - One piece
 - Naruto
@@ -829,7 +830,7 @@ Feel free to add your favorite animes too xD
 - Goblin slayer
 
 
-## 🎬Some more movies 
+# 🎬Some more movies 
 
 - Spirited away
 - A silent voice
