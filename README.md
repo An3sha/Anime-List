@@ -1088,18 +1088,107 @@ Feel free to add your favorite animes too xD
 
 # 🧟Horror
 
-- Angels of Death
-- Kabaneri of the iron fortress
-- Happy sugar life
-- Berserk
-- Sirius the jaeger
-- Another
-- Ajin
-- Blood series
-- Danganronpa
-- Elfen Lied
+![alt image]()
+
+
+
+-------------------
+----------------
+
+
+<table class="tg">
+<tr>
+  <th class="tg-yw4l"><b>Sr. No</b></th>
+  <th class="tg-yw4l"><b>Title</b></th>
+  <th class="tg-yw4l"><b>Description</b></th>
+  <th class="tg-yw4l"><b>Where to Watch?</b></th>
+    
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">1.</td>
+  <td class="tg-yw4l">Angels of Death </td>
+  <td class="tg-yw4l">With dead and lifeless eyes, Rachel Gardner wishes only to die. Waking up in the basement of a building, she has no idea how or why she's there. She stumbles across a bandaged murderer named Zack, who is trying to escape. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/angels-of-death-4182?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">2.</td>
+  <td class="tg-yw4l">Kabaneri of the iron fortress </td>
+  <td class="tg-yw4l">The world is in the midst of the industrial revolution when horrific creatures emerge from a mysterious virus, ripping through the flesh of humans to sate their never-ending appetite</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/kabaneri-of-the-iron-fortress-2523?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+
+<tr>
+  <td class="tg-yw4l">3.</td>
+  <td class="tg-yw4l">Happy sugar life</td>
+  <td class="tg-yw4l">Satou Matsuzaka is a beautiful high schooler who has a reputation for being permissive with men. However, a chance encounter with a young girl named Shio Koube makes Satou realize that this is her first and only true feeling of love.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/happy-sugar-life-3874?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">4.</td>
+  <td class="tg-yw4l">Berserk</td>
+  <td class="tg-yw4l">Satou Matsuzaka is a beautiful high schooler who has a reputation for being permissive with men. However, a chance encounter with a young girl named Shio Koube makes Satou realize that this is her first and only true feeling of love.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/happy-sugar-life-3874?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">5.</td>
+  <td class="tg-yw4l">Sirius the jaeger</td>
+  <td class="tg-yw4l">In the year 1930, vampires have infiltrated Tokyo to feast upon its unsuspecting citizens. As the number of victims continues to rise, the city's authorities decide to hire the Jaegers—a strange, diverse group of individuals tasked by the V Shipping Company.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/sirius-the-jaeger-3318?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">6.</td>
+  <td class="tg-yw4l">Ajin</td>
+  <td class="tg-yw4l">Mysterious immortal humans known as "Ajin" first appeared 17 years ago in Africa. Upon their discovery, they were labeled as a threat to mankind, as they might use their powers for evil and were incapable of being destroyed.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/ajin-demi-human-1512?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">7.</td>
+  <td class="tg-yw4l">Danganronpa<tr>
+  
+  
+  <td class="tg-yw4l">Hope's Peak Academy is an elite high school that accepts only the most talented students. Individuals who successfully enroll receive their own unique titles, suitably reflective of their skills and traits. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/danganronpa-the-animation-2237?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+</table>
+
+----------------
+
 
 # 💫Fantasy
+
+
+
+
+
+
 
 - The seven deadly sins!
 - Sword art online 
