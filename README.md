@@ -1182,7 +1182,7 @@ Feel free to add your favorite animes too xD
 
 # 💫Fantasy
 
-![alt]()
+![alt](https://github.com/MonitSharma/Anime-List/blob/main/Fantasy.png)
 
 -----------------
 -------------
@@ -1265,11 +1265,12 @@ Feel free to add your favorite animes too xD
 </tr>
 
 </table>
+
 -------------
 
 # 🥳ADVENTURE
 
-![alt]()
+![alt](https://github.com/MonitSharma/Anime-List/blob/main/Adventure.png)
 
 
 -----------------
@@ -1345,7 +1346,7 @@ Feel free to add your favorite animes too xD
 
 # 🎬Some more movies 
 
-![alt]()
+![alt](https://github.com/MonitSharma/Anime-List/blob/main/Movie.png)
 
 ----------------
 --------------
