@@ -12,10 +12,6 @@ Feel free to add your favorite animes too xD
 
 # 👁Psychological
 
-![](https://github.com/MonitSharma/Anime-List/blob/main/Psycho.png?raw=true)
-
------------------
--------------------
 
 <table class="tg">
 <tr>
@@ -142,13 +138,6 @@ Feel free to add your favorite animes too xD
 
 
 # 🔅Supernatural
-
-
-
-![](https://github.com/MonitSharma/Anime-List/blob/main/supernat.png?raw=true)
-
----------
---------
 
 
 <table class="tg">
@@ -280,9 +269,6 @@ Feel free to add your favorite animes too xD
 
 # ❄️Magic
 
-![](https://github.com/MonitSharma/Anime-List/blob/main/magic.png?raw=true)
--------------------
-----------------
 <table class="tg">
 <tr>
   <th class="tg-yw4l"><b>Sr. No</b></th>
@@ -400,10 +386,6 @@ Feel free to add your favorite animes too xD
 
 # 🪐Slice of life
 
-![](https://github.com/MonitSharma/Anime-List/blob/main/sliceoflife.png?raw=true)
-
--------------
-----------
 
 <table class="tg">
 <tr>
@@ -522,10 +504,6 @@ Feel free to add your favorite animes too xD
 
 # 🔥Sci-Fi / Mecha
 
-![](https://github.com/MonitSharma/Anime-List/blob/main/sci.png?raw=true)
-
---------------
---------------
 
 <table class="tg">
 <tr>
@@ -643,13 +621,6 @@ Feel free to add your favorite animes too xD
 
 # ⚠️Mystery
 
-
-![](https://github.com/MonitSharma/Anime-List/blob/main/mystery.png?raw=true)
-
-
------------
--------------
-
 <table class="tg">
 <tr>
   <th class="tg-yw4l"><b>Sr. No</b></th>
@@ -749,16 +720,6 @@ Feel free to add your favorite animes too xD
 ------------------
 
 # 🏟Comedy
-
-
-
-
-![alt text](https://github.com/MonitSharma/Anime-List/blob/main/comedy.png?raw=true)
-
-
--------------
------------
-
 
 <table class="tg">
 <tr>
@@ -873,11 +834,6 @@ Feel free to add your favorite animes too xD
 
 # 💕Romance
 
-![](https://github.com/MonitSharma/Anime-List/blob/main/romance.png?raw=true)
----------
------------
-
-
 <table class="tg">
 <tr>
   <th class="tg-yw4l"><b>Sr. No</b></th>
@@ -963,14 +919,6 @@ Feel free to add your favorite animes too xD
 
 
 # 🔫ACTION
-
-
-
-![](https://github.com/MonitSharma/Anime-List/blob/main/action.png?raw=true)
-
-----------
--------------
-
 
 <table class="tg">
 <tr>
@@ -1088,14 +1036,6 @@ Feel free to add your favorite animes too xD
 
 # 🧟Horror
 
-![alt image](https://github.com/MonitSharma/Anime-List/blob/main/horror.png?raw=true)
-
-
-
--------------------
-----------------
-
-
 <table class="tg">
 <tr>
   <th class="tg-yw4l"><b>Sr. No</b></th>
@@ -1182,11 +1122,6 @@ Feel free to add your favorite animes too xD
 
 # 💫Fantasy
 
-![alt](https://github.com/MonitSharma/Anime-List/blob/main/Fantasy.png?raw=true)
-
------------------
--------------
-
 <table class="tg">
 <tr>
   <th class="tg-yw4l"><b>Sr. No</b></th>
@@ -1270,11 +1205,7 @@ Feel free to add your favorite animes too xD
 
 # 🥳ADVENTURE
 
-![alt](https://github.com/MonitSharma/Anime-List/blob/main/Adventure.png?raw=true)
 
-
------------------
---------------
 <table class="tg">
 <tr>
   <th class="tg-yw4l"><b>Sr. No</b></th>
@@ -1343,13 +1274,11 @@ Feel free to add your favorite animes too xD
 
 </table>
 
+------
+
 
 # 🎬Some more movies 
 
-![alt](https://ychef.files.bbci.co.uk/976x549/p09f3lcg.jpg)
-
-----------------
---------------
 
 <table class="tg">
 <tr>
