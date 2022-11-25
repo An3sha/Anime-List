@@ -381,20 +381,121 @@ Feel free to add your favorite animes too xD
 
 </table> 
 
-
+----------------
 
 ## 🪐Slice of life
 
-- Fruits Basket
-- Smile down the Runway
-- Asteroid in love
-- Teasing master Takagi san
-- Violet Evergarden
-- Somali and the forest spirit
-- Love chuunibyou and other delusions
-- March comes like a Lion
-- Beastars
-- Ascendance of a Book worm
+<table class="tg">
+<tr>
+  <th class="tg-yw4l"><b>Sr. No</b></th>
+  <th class="tg-yw4l"><b>Title</b></th>
+  <th class="tg-yw4l"><b>Description</b></th>
+  <th class="tg-yw4l"><b>Where to Watch?</b></th>
+    
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">1.</td>
+  <td class="tg-yw4l">Fruits Basket</td>
+  <td class="tg-yw4l">Tooru Honda has always been fascinated by the story of the Chinese Zodiac that her beloved mother told her as a child. However, a sudden family tragedy changes her life, and subsequent circumstances leave her all alone.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/fruits-basket-1st-season-273?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">2.</td>
+  <td class="tg-yw4l">Smile down the Runway</td>
+  <td class="tg-yw4l">Being the daughter of a modeling agency owner, Chiyuki Fujito aspires to represent her father's agency in the prestigious Paris Fashion Week, shining under the spotlight as a runway model. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/smile-down-the-runway-1047?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">3.</td>
+  <td class="tg-yw4l">Asteroid in love</td>
+  <td class="tg-yw4l">In a fateful childhood encounter, Mira Kinohata met a stargazing dreamer named Ao Manaka. Though their time together was short, Ao showed Mira the wonders of astronomy, from orbiting planets to distant stars </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/asteroid-in-love-3996?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">4.</td>
+  <td class="tg-yw4l">Teasing master Takagi san</td>
+  <td class="tg-yw4l">Having a friend that knows you inside out should be a good thing, but in Nishikata's case, the opposite is true. His classmate Takagi loves to tease him on a daily basis</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/teasing-master-takagi-san-818?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">5.</td>
+  <td class="tg-yw4l">Violet Evergarden</td>
+  <td class="tg-yw4l">Several years have passed since the end of The Great War. As the radio tower in Leidenschaftlich continues to be built, telephones will soon become more relevant, leading to a decline in demand for "Auto Memory Dolls."</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/violet-evergarden-the-movie-2020-159?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">6.</td>
+  <td class="tg-yw4l">Somali and the forest spirit</td>
+  <td class="tg-yw4l">In a world inhabited by demons, cyclopes, and other fantastic creatures, humans stand apart as the outcasts. Quick to anger, the human race engaged in a war that all but wiped them out</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/somali-and-the-forest-spirit-755?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">7.</td>
+  <td class="tg-yw4l">Love, Chunibyo & Other Delusions!</td>
+  <td class="tg-yw4l">Everybody has had that stage in their life where they have thought themselves to be special, different from the masses of ordinary humans. They might go as far as seeing themselves capable of wielding mystical powers</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/love-chunibyo-other-delusions-843?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">8.</td>
+  <td class="tg-yw4l">March comes like a Lion</td>
+  <td class="tg-yw4l">Having reached professional status in middle school, Rei Kiriyama is one of the few elite in the world of shogi. Due to this, he faces an enormous amount of pressure, both from the shogi community and his adoptive family</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/march-comes-in-like-a-lion-119?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">9.</td>
+  <td class="tg-yw4l">Beastars</td>
+  <td class="tg-yw4l">In a civilized society of anthropomorphic animals, an uneasy tension exists between carnivores and herbivores. At Cherryton Academy, this mutual distrust peaks after a predation incident results in the death of Tem, an alpaca in the school's drama club</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/beastars-382?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">10.</td>
+  <td class="tg-yw4l">Ascendance of a Book worm</td>
+  <td class="tg-yw4l">Urano Motosu loves books and has an endless desire to read literature, no matter the subject. She almost fulfills her dream job of becoming a librarian before her life is ended in an accident.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/ascendance-of-a-bookworm-467?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+------
+
 
 ## 🔥Sci-Fi / Mecha
 
