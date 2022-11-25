@@ -12,7 +12,7 @@ Feel free to add your favorite animes too xD
 
 # 👁Psychological
 
-![](https://github.com/MonitSharma/Anime-List/blob/main/Psycho.png)
+![](https://github.com/MonitSharma/Anime-List/blob/main/Psycho.png?raw=true)
 
 -----------------
 -------------------
@@ -145,7 +145,7 @@ Feel free to add your favorite animes too xD
 
 
 
-![](https://github.com/MonitSharma/Anime-List/blob/main/supernat.png)
+![](https://github.com/MonitSharma/Anime-List/blob/main/supernat.png?raw=true)
 
 ---------
 --------
@@ -280,7 +280,7 @@ Feel free to add your favorite animes too xD
 
 # ❄️Magic
 
-![](https://github.com/MonitSharma/Anime-List/blob/main/magic.png)
+![](https://github.com/MonitSharma/Anime-List/blob/main/magic.png?raw=true)
 -------------------
 ----------------
 <table class="tg">
@@ -400,7 +400,7 @@ Feel free to add your favorite animes too xD
 
 # 🪐Slice of life
 
-![](https://github.com/MonitSharma/Anime-List/blob/main/sliceoflife.png)
+![](https://github.com/MonitSharma/Anime-List/blob/main/sliceoflife.png?raw=true)
 
 -------------
 ----------
@@ -522,7 +522,7 @@ Feel free to add your favorite animes too xD
 
 # 🔥Sci-Fi / Mecha
 
-![](https://github.com/MonitSharma/Anime-List/blob/main/sci.png)
+![](https://github.com/MonitSharma/Anime-List/blob/main/sci.png?raw=true)
 
 --------------
 --------------
@@ -644,7 +644,7 @@ Feel free to add your favorite animes too xD
 # ⚠️Mystery
 
 
-![](https://github.com/MonitSharma/Anime-List/blob/main/mystery.png)
+![](https://github.com/MonitSharma/Anime-List/blob/main/mystery.png?raw=true)
 
 
 -----------
@@ -753,7 +753,7 @@ Feel free to add your favorite animes too xD
 
 
 
-![alt text](https://github.com/MonitSharma/Anime-List/blob/main/comedy.png)
+![alt text](https://github.com/MonitSharma/Anime-List/blob/main/comedy.png?raw=true)
 
 
 -------------
@@ -873,7 +873,7 @@ Feel free to add your favorite animes too xD
 
 # 💕Romance
 
-![](https://github.com/MonitSharma/Anime-List/blob/main/romance.png)
+![](https://github.com/MonitSharma/Anime-List/blob/main/romance.png?raw=true)
 ---------
 -----------
 
@@ -966,7 +966,7 @@ Feel free to add your favorite animes too xD
 
 
 
-![](https://github.com/MonitSharma/Anime-List/blob/main/action.png)
+![](https://github.com/MonitSharma/Anime-List/blob/main/action.png?raw=true)
 
 ----------
 -------------
@@ -1088,7 +1088,7 @@ Feel free to add your favorite animes too xD
 
 # 🧟Horror
 
-![alt image](https://github.com/MonitSharma/Anime-List/blob/main/horror.png)
+![alt image](https://github.com/MonitSharma/Anime-List/blob/main/horror.png?raw=true)
 
 
 
@@ -1182,7 +1182,7 @@ Feel free to add your favorite animes too xD
 
 # 💫Fantasy
 
-![alt](https://github.com/MonitSharma/Anime-List/blob/main/Fantasy.png)
+![alt](https://github.com/MonitSharma/Anime-List/blob/main/Fantasy.png?raw=true)
 
 -----------------
 -------------
@@ -1270,7 +1270,7 @@ Feel free to add your favorite animes too xD
 
 # 🥳ADVENTURE
 
-![alt](https://github.com/MonitSharma/Anime-List/blob/main/Adventure.png)
+![alt](https://github.com/MonitSharma/Anime-List/blob/main/Adventure.png?raw=true)
 
 
 -----------------
@@ -1346,7 +1346,7 @@ Feel free to add your favorite animes too xD
 
 # 🎬Some more movies 
 
-![alt](https://github.com/MonitSharma/Anime-List/blob/main/Movie.png)
+![alt](https://github.com/MonitSharma/Anime-List/blob/main/Movie.png?raw=true)
 
 ----------------
 --------------
