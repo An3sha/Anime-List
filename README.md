@@ -753,7 +753,7 @@ Feel free to add your favorite animes too xD
 
 
 
-![alt text]()
+![alt text](https://github.com/MonitSharma/Anime-List/blob/main/comedy.png)
 
 
 -------------
