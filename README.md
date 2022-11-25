@@ -12,6 +12,11 @@ Feel free to add your favorite animes too xD
 
 ## 👁Psychological
 
+![](https://github.com/MonitSharma/Anime-List/blob/main/Psycho.png)
+
+-----------------
+-------------------
+
 <table class="tg">
 <tr>
   <th class="tg-yw4l"><b>Sr. No</b></th>
@@ -129,6 +134,8 @@ Feel free to add your favorite animes too xD
  
 </table> 
   
+  
+
   
 
 -------
