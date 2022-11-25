@@ -873,7 +873,7 @@ Feel free to add your favorite animes too xD
 
 # 💕Romance
 
-
+![](https://github.com/MonitSharma/Anime-List/blob/main/romance.png)
 ---------
 -----------
 
@@ -966,7 +966,7 @@ Feel free to add your favorite animes too xD
 
 
 
-
+![](https://github.com/MonitSharma/Anime-List/blob/main/action.png)
 
 ----------
 -------------
@@ -1088,7 +1088,7 @@ Feel free to add your favorite animes too xD
 
 # 🧟Horror
 
-![alt image]()
+![alt image](https://github.com/MonitSharma/Anime-List/blob/main/horror.png)
 
 
 
