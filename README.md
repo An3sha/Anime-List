@@ -642,16 +642,103 @@ Feel free to add your favorite animes too xD
 
 ## ⚠️Mystery
 
-- Death note
-- Trigun
-- kanata no Astra
-- Hyouka 
-- Monster
-- Black buttler
-- Durarara
-- kabukichou sherlock
-- Darker than black
-- Future diary
+
+<table class="tg">
+<tr>
+  <th class="tg-yw4l"><b>Sr. No</b></th>
+  <th class="tg-yw4l"><b>Title</b></th>
+  <th class="tg-yw4l"><b>Description</b></th>
+  <th class="tg-yw4l"><b>Where to Watch?</b></th>
+    
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">1.</td>
+  <td class="tg-yw4l">Death note</td>
+  <td class="tg-yw4l">A shinigami, as a god of death, can kill any person—provided they see their victim's face and write their victim's name in a notebook called a Death Note. One day, Ryuk, bored by the shinigami lifestyle and interested in seeing how a human would use a Death Note</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/death-note-60?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+  
+  
+<tr>
+  <td class="tg-yw4l">2.</td>
+  <td class="tg-yw4l">Trigun</td>
+  <td class="tg-yw4l">Vash the Stampede is the man with a $$60,000,000,000 bounty on his head. The reason: he's a merciless villain who lays waste to all those that oppose him and flattens entire cities for fun, garnering him the title "The Humanoid Typhoon." </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/trigun-266?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+  
+  
+ <tr>
+  <td class="tg-yw4l">3.</td>
+  <td class="tg-yw4l">kanata no Astra</td>
+  <td class="tg-yw4l">In the year 2063, space travel is feasible and commercially available. As the cheerful Aries Spring arrives at the spaceport to attend a camp on the distant planet McPa, her purse is suddenly snatched by a reckless thief </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/astra-lost-in-space-310?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+  
+  
+  
+<tr>
+  <td class="tg-yw4l">4.</td>
+  <td class="tg-yw4l">Hyouka</td>
+  <td class="tg-yw4l">Energy-conservative high school student Houtarou Oreki ends up with more than he bargained for when he signs up for the Classics Club at his sister's behest—especially when he realizes how deep-rooted the club's history really is.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/hyouka-349?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+  
+<tr>
+  <td class="tg-yw4l">5.</td>
+  <td class="tg-yw4l">Black butler</td>
+  <td class="tg-yw4l">Young Ciel Phantomhive is known as "the Queen's Guard Dog," taking care of the many unsettling events that occur in Victorian England for Her Majesty. Aided by Sebastian Michaelis, his loyal butler with seemingly inhuman abilities, </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/black-butler-854?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+  
+  
+<tr>
+  <td class="tg-yw4l">6.</td>
+  <td class="tg-yw4l">Durarara</td>
+  <td class="tg-yw4l">In Tokyo's downtown district of Ikebukuro, amidst many strange rumors and warnings of anonymous gangs and dangerous occupants, one urban legend stands out above the rest—the existence of a headless "Black Rider"</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/durarara-303?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+  
+  
+<tr>
+  <td class="tg-yw4l">7.</td>
+  <td class="tg-yw4l">Darker than Black</td>
+  <td class="tg-yw4l">It has been 10 years since Heaven's Gate appeared in South America and Hell's Gate appeared in Japan, veiling the once familiar night sky with an oppressive skyscape. Their purposes unknown, these Gates are spaces in which the very laws of physics are ignored.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/darker-than-black-373?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+  
+  
+  
+<tr>
+  <td class="tg-yw4l">8.</td>
+  <td class="tg-yw4l">The Future Diary</td>
+  <td class="tg-yw4l">Lonely high school student, Yukiteru Amano, spends his days writing a diary on his cellphone, while conversing with his two seemingly imaginary friends Deus Ex Machina, who is the god of time and space, and Murmur, the god's servant.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/the-future-diary-1281?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+  
+  
+  
+</table>
+
 
 ## 🏟Comedy
 
