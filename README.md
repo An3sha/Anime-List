@@ -494,6 +494,9 @@ Feel free to add your favorite animes too xD
 </a></td>
 </tr>
 
+
+</table> 
+
 ------
 
 
