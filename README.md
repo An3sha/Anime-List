@@ -2,6 +2,9 @@
 
 Hey! I'm making this for all the anime lovers. It includes anime series and movies of all genres
 
+
+![](https://i.pinimg.com/originals/f1/6e/dc/f16edcb49c56db043bef00f778ad4496.jpg)
+
 Feel free to add your favorite animes too xD
 
 ---------
