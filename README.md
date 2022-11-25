@@ -639,9 +639,16 @@ Feel free to add your favorite animes too xD
 
 </table> 
 
+--------------------
 
 ## ⚠️Mystery
 
+
+![](https://github.com/MonitSharma/Anime-List/blob/main/mystery.png)
+
+
+-----------
+-------------
 
 <table class="tg">
 <tr>
