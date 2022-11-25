@@ -746,21 +746,125 @@ Feel free to add your favorite animes too xD
   
 </table>
 
+------------------
 
 # 🏟Comedy
 
-- Konosuba
-- My teen romantic comedy
-- Disasterous life of Saiki k
-- Devil is a part timer
-- School rumble
-- Haven't you heard I'm Sakamoto
-- Bakuman
-- Cautious Hero
-- Noragami
-- Rikekoi
-- Rent a Girlfriend
-- Prison Break
+
+
+
+![alt text]()
+
+
+-------------
+-----------
+
+
+<table class="tg">
+<tr>
+  <th class="tg-yw4l"><b>Sr. No</b></th>
+  <th class="tg-yw4l"><b>Title</b></th>
+  <th class="tg-yw4l"><b>Description</b></th>
+  <th class="tg-yw4l"><b>Where to Watch?</b></th>
+    
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">1.</td>
+  <td class="tg-yw4l">Konosuba</td>
+  <td class="tg-yw4l">It was a happy day for Kazuma - right up to the moment he died. A goddess intervenes and offers him a second chance in a magical land.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/search?keyword=Konosuba">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">2.</td>
+  <td class="tg-yw4l">My teen romantic comedy</td>
+  <td class="tg-yw4l">Hachiman Hikigaya is an apathetic high school student with narcissistic and semi-nihilistic tendencies. He firmly believes that joyful youth is nothing but a farce, and everyone who says otherwise is just lying to themselves. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/my-teen-romantic-comedy-snafu-454?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">3.</td>
+  <td class="tg-yw4l">Disasterous life of Saiki k</td>
+  <td class="tg-yw4l">To the average person, psychic abilities might seem a blessing; for Kusuo Saiki, however, this couldn't be further from the truth. Gifted with a wide assortment of supernatural abilities ranging from telepathy to x-ray vision, he finds this so-called blessing to be nothing but a curse </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/the-disastrous-life-of-saiki-k-108?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">4.</td>
+  <td class="tg-yw4l">Devil is a part timer</td>
+  <td class="tg-yw4l">Striking fear into the hearts of mortals, the Demon Lord Satan begins to conquer the land of Ente Isla with his vast demon armies. However, while embarking on this brutal quest to take over the continent, his efforts are foiled by the hero Emilia </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/the-devil-is-a-part-timer-724?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">5.</td>
+  <td class="tg-yw4l">School rumble</td>
+  <td class="tg-yw4l">Just the words "I love you," and everything changes—such is the nature of the bittersweet trials of high school romance. Tenma Tsukamoto, a second year, is on a quest to confess her feelings to the boy she likes.  </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/school-rumble-606?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+
+<tr>
+  <td class="tg-yw4l">6.</td>
+  <td class="tg-yw4l">Haven't you heard I'm Sakamoto</td>
+  <td class="tg-yw4l">Sophisticated, suave, sublime; all words which describe the exceedingly handsome and patently perfect Sakamoto. Though it is only his first day in high school, his attractiveness, intelligence, and charm already has the girls swooning and the guys fuming with jealousy.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/havent-you-heard-im-sakamoto-1247?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+
+<tr>
+  <td class="tg-yw4l">7.</td>
+  <td class="tg-yw4l">Bakuman</td>
+  <td class="tg-yw4l">It is a simple tale of two middle school guys setting out to become professional manga artists.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/search?keyword=Bakuman">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+
+<tr>
+  <td class="tg-yw4l">8.</td>
+  <td class="tg-yw4l">Rent a Girlfriend</td>
+  <td class="tg-yw4l">Kazuya Kinoshita is a 20-year-old college student who has a wonderful girlfriend: the bright and sunny Mami Nanami. But suddenly, he doesn't. Without warning, Mami breaks up with him, leaving him utterly heartbroken and lonely.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/rent-a-girlfriend-2037?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+
+<tr>
+  <td class="tg-yw4l">9.</td>
+  <td class="tg-yw4l">Prison School</td>
+  <td class="tg-yw4l">Located on the outskirts of Tokyo, Hachimitsu Private Academy is a prestigious all-girls boarding school, famous for its high-quality education and disciplined students. However, this is all about to change due to the revision of the school's most iconic policy,</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/prison-school-938?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+</table>
 
 # 💕Romance
 
