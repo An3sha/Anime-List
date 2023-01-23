@@ -720,6 +720,24 @@ Feel free to add your favorite animes too xD
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
 </tr>
+
+<tr>
+  <td class="tg-yw4l">9.</td>
+  <td class="tg-yw4l">Monster</td>
+  <td class="tg-yw4l">Dr. Kenzou Tenma, an elite neurosurgeon recently engaged to his hospital director's daughter, is well on his way to ascending the hospital hierarchy. That is until one night, a seemingly small event changes Dr. Tenma's life forever. While preparing to perform surgery on someone, he gets a call from the hospital director telling him to switch patients and instead perform life-saving brain surgery on a famous performer.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/monster-37?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">10.</td>
+  <td class="tg-yw4l">kabukichou sherlock</td>
+  <td class="tg-yw4l">In Shinjuku ward's east side lies Kabukichou, a vibrant city of chaos that glows brilliantly with neon lights but also hides unseen darkness. Employed at a university hospital on the west side, John H. Watson is looking for someone who can assist him with an odd case.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/case-file-no221-kabukicho-3878?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
   
   
   
@@ -830,6 +848,24 @@ Feel free to add your favorite animes too xD
   <td class="tg-yw4l">Prison School</td>
   <td class="tg-yw4l">Located on the outskirts of Tokyo, Hachimitsu Private Academy is a prestigious all-girls boarding school, famous for its high-quality education and disciplined students. However, this is all about to change due to the revision of the school's most iconic policy,</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/prison-school-938?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">10.</td>
+  <td class="tg-yw4l">Cautious Hero</td>
+  <td class="tg-yw4l">There is a popular saying: "you can never be too careful." It is very important to prepare for every situation you may face, even if it seems like an unnecessary waste of time. Also, in games like RPGs, it is good to exceed the level of your enemies to achieve total victory</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/cautious-hero-the-hero-is-overpowered-but-overly-cautious-1350?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">11.</td>
+  <td class="tg-yw4l">Noragami</td>
+  <td class="tg-yw4l">In times of need, if you look in the right place, you just may see a strange telephone number scrawled in red. If you call this number, you will hear a young man introduce himself as the Yato God. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/noragami-491?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
 </tr>
