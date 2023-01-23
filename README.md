@@ -958,6 +958,37 @@ Feel free to add your favorite animes too xD
 </a></td>
 </tr>
 
+
+
+<tr>
+  <td class="tg-yw4l">9.</td>
+  <td class="tg-yw4l">3d girlfriend</td>
+  <td class="tg-yw4l">For Hikari Tsutsui, life within the two-dimensional realm is much simpler. Socially inept and awkward, he immerses himself in video games and anime, only to be relentlessly ridiculed and ostracized by his classmates. Sharing his misery is Yuuto Itou, his only friend, who wears cat ears and is equally obsessed with the world of games.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/real-girl-4517?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">10.</td>
+  <td class="tg-yw4l">Darling in the franxx</td>
+  <td class="tg-yw4l">In the distant future, humanity has been driven to near-extinction by giant beasts known as Klaxosaurs, forcing the surviving humans to take refuge in massive fortress cities called Plantations</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/darling-in-the-franxx-2055?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">11.</td>
+  <td class="tg-yw4l">Tsuredure Children</td>
+  <td class="tg-yw4l">Young love—it takes many unique and fascinating forms that flourish as children begin to mature into adults. From being unable to confess to not knowing what real love actually feels like, various obstacles can arise when learning about romantic attraction for the first time</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/tsuredure-children-1002?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
 </table>
 
 
@@ -1071,6 +1102,23 @@ Feel free to add your favorite animes too xD
   <td class="tg-yw4l">Chainsaw Man</td>
   <td class="tg-yw4l">Denji has a simple dream—to live a happy and peaceful life, spending time with a girl he likes. This is a far cry from reality, however, as Denji is forced by the yakuza into killing devils in order to pay off his crushing debts</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/chainsaw-man-17406?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">11.</td>
+  <td class="tg-yw4l">Hellsing series</td>
+  <td class="tg-yw4l">Hellsing, an organization specializing in dealing with supernatural threats, is called in to eliminate a vampire that is turning the villagers of Cheddar into ghouls. To put an end to this, the leader of the organization, Sir Integra Fairbrook Wingates Hellsing, dispatches her most formidable asset: a powerful vampire known as Alucard</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/hellsing-1555?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">12.</td>
+  <td class="tg-yw4l">Junni Taisen</td>
+  <td class="tg-yw4l">Every 12 years, mercenaries who possess the highest caliber of brute strength, cunning wit, and deadly precision gather to participate in the Zodiac Tournament. Each warrior bears the name and attributes of one of the 12 animals of the Chinese zodiac.</td>   <td class="tg-yw4l"><a href="https://zoro.to/juni-taisen-zodiac-war-5497?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
 </tr>
@@ -1247,6 +1295,38 @@ Feel free to add your favorite animes too xD
 </a></td>
 </tr>
 
+
+
+<tr>
+  <td class="tg-yw4l">8.</td>
+  <td class="tg-yw4l"> Another </td>
+  <td class="tg-yw4l">In 1972, a popular student in Yomiyama North Middle School's class 3-3 named Misaki passed away during the school year. Since then, the town of Yomiyama has been shrouded by a fearful atmosphere, from the dark secrets hidden deep within</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/another-1330?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">9.</td>
+  <td class="tg-yw4l"> Blood series </td>
+  <td class="tg-yw4l">Saya Otonashi is a seemingly ordinary girl living a mundane life with her adoptive family in Okinawa City. In fact, her only peculiarities are suffering from anemia and being unable to remember any of her life beyond the previous year</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/blood-1107?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">10.</td>
+  <td class="tg-yw4l">Elfen Lied </td>
+  <td class="tg-yw4l">Lucy is a special breed of human referred to as "Diclonius," born with a short pair of horns and invisible telekinetic hands that lands her as a victim of inhumane scientific experimentation by the government</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/elfen-lied-1313?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+
 </table>
 
 -------------
@@ -1319,6 +1399,59 @@ Feel free to add your favorite animes too xD
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
 </tr>
+
+
+
+<tr>
+  <td class="tg-yw4l">7.</td>
+  <td class="tg-yw4l">Re:Zero- Starting life in Another world</td>
+  <td class="tg-yw4l"> When Subaru Natsuki leaves the convenience store, the last thing he expects is to be wrenched from his everyday life and dropped into a fantasy world. Things aren't looking good for the bewildered teenager; however, not long after his arrival, he is attacked by some thugs. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/rezero-starting-life-in-another-world-212?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">8.</td>
+  <td class="tg-yw4l">Made in Abyss</td>
+  <td class="tg-yw4l">The Abyss—a gaping chasm stretching down into the depths of the earth, filled with mysterious creatures and relics from a time long past. How did it come to be? What lies at the bottom? Countless brave individuals, known as Divers, have sought to solve these mysteries of the Abyss, fearlessly descending into its darkest realms. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/made-in-abyss-32?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">9.</td>
+  <td class="tg-yw4l">Akame ga kill</td>
+  <td class="tg-yw4l">Night Raid is the covert assassination branch of the Revolutionary Army, an uprising assembled to overthrow Prime Minister Honest, whose avarice and greed for power has led him to take advantage of the child emperor's inexperience </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/akame-ga-kill-1329?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">10.</td>
+  <td class="tg-yw4l">Is it wrong to pick girls in dungeon?</td>
+  <td class="tg-yw4l">In the city of Orario, where adventurers hunt monsters in a place called Dungeon, Bell Cranel's life was saved by a swordswoman, who is then become the source of Bell's determination to get stronger. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-iii-ova-17388?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">11.</td>
+  <td class="tg-yw4l">The rising of the Shield Hero</td>
+  <td class="tg-yw4l">The Four Cardinal Heroes are a group of ordinary men from modern-day Japan summoned to the kingdom of Melromarc to become its saviors. Melromarc is a country plagued by the Waves of Catastrophe that have repeatedly ravaged the land and brought disaster to its citizens for centuries </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/the-rising-of-the-shield-hero-524?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+
 
 
 </table>
