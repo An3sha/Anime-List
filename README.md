@@ -1211,6 +1211,41 @@ Feel free to add your favorite animes too xD
 </a></td>
 </tr>
 
+
+
+
+
+
+<tr>
+  <td class="tg-yw4l">8.</td>
+  <td class="tg-yw4l"> Another </td>
+  <td class="tg-yw4l">In 1972, a popular student in Yomiyama North Middle School's class 3-3 named Misaki passed away during the school year. Since then, the town of Yomiyama has been shrouded by a fearful atmosphere, from the dark secrets hidden deep within</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/another-1330?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">9.</td>
+  <td class="tg-yw4l"> Blood series </td>
+  <td class="tg-yw4l">Saya Otonashi is a seemingly ordinary girl living a mundane life with her adoptive family in Okinawa City. In fact, her only peculiarities are suffering from anemia and being unable to remember any of her life beyond the previous year</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/blood-1107?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">10.</td>
+  <td class="tg-yw4l">Elfen Lied </td>
+  <td class="tg-yw4l">Lucy is a special breed of human referred to as "Diclonius," born with a short pair of horns and invisible telekinetic hands that lands her as a victim of inhumane scientific experimentation by the government</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/elfen-lied-1313?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+
 </table>
 
 ----------------
@@ -1296,34 +1331,59 @@ Feel free to add your favorite animes too xD
 </tr>
 
 
+<tr>
+  <td class="tg-yw4l">7.</td>
+  <td class="tg-yw4l">Re:Zero- Starting life in Another world</td>
+  <td class="tg-yw4l"> When Subaru Natsuki leaves the convenience store, the last thing he expects is to be wrenched from his everyday life and dropped into a fantasy world. Things aren't looking good for the bewildered teenager; however, not long after his arrival, he is attacked by some thugs. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/rezero-starting-life-in-another-world-212?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
 
 <tr>
   <td class="tg-yw4l">8.</td>
-  <td class="tg-yw4l"> Another </td>
-  <td class="tg-yw4l">In 1972, a popular student in Yomiyama North Middle School's class 3-3 named Misaki passed away during the school year. Since then, the town of Yomiyama has been shrouded by a fearful atmosphere, from the dark secrets hidden deep within</td>   
-  <td class="tg-yw4l"><a href="https://zoro.to/another-1330?ref=search">
+  <td class="tg-yw4l">Made in Abyss</td>
+  <td class="tg-yw4l">The Abyss—a gaping chasm stretching down into the depths of the earth, filled with mysterious creatures and relics from a time long past. How did it come to be? What lies at the bottom? Countless brave individuals, known as Divers, have sought to solve these mysteries of the Abyss, fearlessly descending into its darkest realms. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/made-in-abyss-32?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
 </tr>
-
 
 <tr>
   <td class="tg-yw4l">9.</td>
-  <td class="tg-yw4l"> Blood series </td>
-  <td class="tg-yw4l">Saya Otonashi is a seemingly ordinary girl living a mundane life with her adoptive family in Okinawa City. In fact, her only peculiarities are suffering from anemia and being unable to remember any of her life beyond the previous year</td>   
-  <td class="tg-yw4l"><a href="https://zoro.to/blood-1107?ref=search">
+  <td class="tg-yw4l">Akame ga kill</td>
+  <td class="tg-yw4l">Night Raid is the covert assassination branch of the Revolutionary Army, an uprising assembled to overthrow Prime Minister Honest, whose avarice and greed for power has led him to take advantage of the child emperor's inexperience </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/akame-ga-kill-1329?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
 </tr>
 
+
 <tr>
   <td class="tg-yw4l">10.</td>
-  <td class="tg-yw4l">Elfen Lied </td>
-  <td class="tg-yw4l">Lucy is a special breed of human referred to as "Diclonius," born with a short pair of horns and invisible telekinetic hands that lands her as a victim of inhumane scientific experimentation by the government</td>   
-  <td class="tg-yw4l"><a href="https://zoro.to/elfen-lied-1313?ref=search">
+  <td class="tg-yw4l">Is it wrong to pick girls in dungeon?</td>
+  <td class="tg-yw4l">In the city of Orario, where adventurers hunt monsters in a place called Dungeon, Bell Cranel's life was saved by a swordswoman, who is then become the source of Bell's determination to get stronger. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-iii-ova-17388?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
 </tr>
+
+
+<tr>
+  <td class="tg-yw4l">11.</td>
+  <td class="tg-yw4l">The rising of the Shield Hero</td>
+  <td class="tg-yw4l">The Four Cardinal Heroes are a group of ordinary men from modern-day Japan summoned to the kingdom of Melromarc to become its saviors. Melromarc is a country plagued by the Waves of Catastrophe that have repeatedly ravaged the land and brought disaster to its citizens for centuries </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/the-rising-of-the-shield-hero-524?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+
+
+
+
 
 
 
@@ -1401,12 +1461,11 @@ Feel free to add your favorite animes too xD
 </tr>
 
 
-
 <tr>
   <td class="tg-yw4l">7.</td>
-  <td class="tg-yw4l">Re:Zero- Starting life in Another world</td>
-  <td class="tg-yw4l"> When Subaru Natsuki leaves the convenience store, the last thing he expects is to be wrenched from his everyday life and dropped into a fantasy world. Things aren't looking good for the bewildered teenager; however, not long after his arrival, he is attacked by some thugs. </td>   
-  <td class="tg-yw4l"><a href="https://zoro.to/rezero-starting-life-in-another-world-212?ref=search">
+  <td class="tg-yw4l">Samurai champloo</td>
+  <td class="tg-yw4l"> Fuu Kasumi is a young and clumsy waitress who spends her days peacefully working in a small teahouse. That is, until she accidentally spills a drink all over one of her customers! With a group of samurai now incessantly harassing her, Fuu desperately calls upon another samurai in the shop,</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/samurai-champloo-98?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
 </tr>
@@ -1414,43 +1473,30 @@ Feel free to add your favorite animes too xD
 
 <tr>
   <td class="tg-yw4l">8.</td>
-  <td class="tg-yw4l">Made in Abyss</td>
-  <td class="tg-yw4l">The Abyss—a gaping chasm stretching down into the depths of the earth, filled with mysterious creatures and relics from a time long past. How did it come to be? What lies at the bottom? Countless brave individuals, known as Divers, have sought to solve these mysteries of the Abyss, fearlessly descending into its darkest realms. </td>   
-  <td class="tg-yw4l"><a href="https://zoro.to/made-in-abyss-32?ref=search">
+  <td class="tg-yw4l">Bungou stray dogs</td>
+  <td class="tg-yw4l"> For weeks, Atsushi Nakajima's orphanage has been plagued by a mystical tiger that only he seems to be aware of. Suspected to be behind the strange incidents, the 18-year-old is abruptly kicked out of the orphanage and left hungry, homeless, and wandering through the city.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/bungo-stray-dogs-858?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
 </tr>
 
 <tr>
   <td class="tg-yw4l">9.</td>
-  <td class="tg-yw4l">Akame ga kill</td>
-  <td class="tg-yw4l">Night Raid is the covert assassination branch of the Revolutionary Army, an uprising assembled to overthrow Prime Minister Honest, whose avarice and greed for power has led him to take advantage of the child emperor's inexperience </td>   
-  <td class="tg-yw4l"><a href="https://zoro.to/akame-ga-kill-1329?ref=search">
+  <td class="tg-yw4l">Claymore</td>
+  <td class="tg-yw4l"> When a shapeshifting demon with a thirst for human flesh, known as "youma," arrives in Raki's village, a lone woman with silver eyes walks into town with only a sword upon her back.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/claymore-844?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
 </tr>
-
 
 <tr>
   <td class="tg-yw4l">10.</td>
-  <td class="tg-yw4l">Is it wrong to pick girls in dungeon?</td>
-  <td class="tg-yw4l">In the city of Orario, where adventurers hunt monsters in a place called Dungeon, Bell Cranel's life was saved by a swordswoman, who is then become the source of Bell's determination to get stronger. </td>   
-  <td class="tg-yw4l"><a href="https://zoro.to/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-iii-ova-17388?ref=search">
+  <td class="tg-yw4l">Goblin slayer</td>
+  <td class="tg-yw4l"> Goblins are known for their ferocity, cunning, and rapid reproduction, but their reputation as the lowliest of monsters causes their threat to be overlooked. .</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/goblin-slayer-1571?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
 </tr>
-
-
-<tr>
-  <td class="tg-yw4l">11.</td>
-  <td class="tg-yw4l">The rising of the Shield Hero</td>
-  <td class="tg-yw4l">The Four Cardinal Heroes are a group of ordinary men from modern-day Japan summoned to the kingdom of Melromarc to become its saviors. Melromarc is a country plagued by the Waves of Catastrophe that have repeatedly ravaged the land and brought disaster to its citizens for centuries </td>   
-  <td class="tg-yw4l"><a href="https://zoro.to/the-rising-of-the-shield-hero-524?ref=search">
-  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
-</a></td>
-</tr>
-
-
 
 
 
@@ -1517,5 +1563,74 @@ Feel free to add your favorite animes too xD
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
 </tr>
+
+<tr>
+  <td class="tg-yw4l">6.</td>
+  <td class="tg-yw4l">A Whisker away</td>
+  <td class="tg-yw4l">Miyo Sasaki is an energetic high school girl who comes from a broken family consisting of her unconfident father and an overly invested stepmother, whose attempts at connecting with Miyo come across as bothersome.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/a-whisker-away-1772?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">8.</td>
+  <td class="tg-yw4l">Tenki no ko</td>
+  <td class="tg-yw4l">Tokyo is currently experiencing rain showers that seem to disrupt the usual pace of everyone living there to no end. Amidst this seemingly eternal downpour arrives the runaway high school student Hodaka Morishima, who struggles to financially support himself—ending up with a job at a small-time publisher.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/weathering-with-you-111?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">9.</td>
+  <td class="tg-yw4l">Patema inverted</td>
+  <td class="tg-yw4l">Patema is a plucky young girl from an underground civilization boasting an incredible network of tunnels. Inspired by a friend that mysteriously went missing, she is often reprimanded due to her constant excursions of these tunnels due to her royal status.</td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/patema-inverted-455?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">10.</td>
+  <td class="tg-yw4l">Into the forest of fireflies light</td>
+  <td class="tg-yw4l">Intrigued by the tale of a mountain god, six-year-old Hotaru Takegawa loses her way in the ancient forest while visiting her uncle. Exhausted and desperate for help, Hotaru is thrilled to find a masked forest spirit named Gin. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/the-light-of-a-firefly-forest-140?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">11.</td>
+  <td class="tg-yw4l">Grave of fireflies</td>
+  <td class="tg-yw4l">As World War II reaches its conclusion in 1945, Japan faces widespread destruction in the form of American bombings, devastating city after city. Hotaru no Haka, also known as Grave of the Fireflies, is the story of Seita and his sister Setsuko, two Japanese children whose lives are ravaged by the brutal war. </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/grave-of-the-fireflies-96?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
+<tr>
+  <td class="tg-yw4l">12.</td>
+  <td class="tg-yw4l">Wolf children</td>
+  <td class="tg-yw4l">Hana, a hard-working college student, falls in love with a mysterious man who attends one of her classes though he is not an actual student. As it turns out, he is not truly human either </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/wolf-children-51?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">12.</td>
+  <td class="tg-yw4l">Flavours of youth</td>
+  <td class="tg-yw4l">The rigorous city life of China, while bustling and unforgiving, contains the everlasting memories of days past. Three stories told in three different cities, Shikioriori follows the loss of youth and the daunting realization of adulthood.  </td>   
+  <td class="tg-yw4l"><a href="https://zoro.to/flavors-of-youth-2771?ref=search">
+  <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
+</a></td>
+</tr>
+
+
 
 </table>
