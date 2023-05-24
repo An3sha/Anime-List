@@ -166,7 +166,8 @@ Feel free to add your favorite animes too xD
 
 
 ## 🎬Some more movies 
-
+- Your Name
+- The Garden Of Words
 - Spirited away
 - A silent voice
 - The girl who leapt through time
