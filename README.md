@@ -17,6 +17,7 @@ Feel free to add your favorite animes too xD
 - Classroom of elite 
 - kakegurui
 - Akuma no Riddle
+- Monster
 
 ## 🔅Supernatural
 
@@ -56,6 +57,8 @@ Feel free to add your favorite animes too xD
 - March comes like a Lion
 - Beastars
 - Ascendance of a Book worm
+- Food Wars
+- Sweetness and Lightning
 
 ## 🔥Sci-Fi / Mecha
 
@@ -76,7 +79,6 @@ Feel free to add your favorite animes too xD
 - Trigun
 - kanata no Astra
 - Hyouka 
-- Monster
 - Black buttler
 - Durarara
 - kabukichou sherlock
@@ -122,6 +124,7 @@ Feel free to add your favorite animes too xD
 - Junni Taisen
 - Assasination classroom
 - Baki
+- Vinland Saga
 
 ## 🧟Horror
 
@@ -165,6 +168,7 @@ Feel free to add your favorite animes too xD
 - Goblin slayer
 
 
+
 ## 🎬Some more movies 
 - Your Name
 - The Garden Of Words
@@ -180,3 +184,7 @@ Feel free to add your favorite animes too xD
 - Grave of fireflies
 - Wolf children
 - Flavours of youth 
+- Your Name
+- Garden of Words
+- 5 centimetre per second
+- Suzume's door locking
