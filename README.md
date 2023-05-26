@@ -185,6 +185,5 @@ Feel free to add your favorite animes too xD
 - Wolf children
 - Flavours of youth 
 - Your Name
-- Garden of Words
 - 5 centimetre per second
 - Suzume's door locking
