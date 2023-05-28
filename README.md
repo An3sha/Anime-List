@@ -125,6 +125,8 @@ Feel free to add your favorite animes too xD
 - Assasination classroom
 - Baki
 - Vinland Saga
+- Jujutsu Kaisen
+- Hell's Paradise
 
 ## 🧟Horror
 
@@ -187,3 +189,4 @@ Feel free to add your favorite animes too xD
 - Garden of Words
 - 5 centimetre per second
 - Suzume's door locking
+- When Marnie was there
