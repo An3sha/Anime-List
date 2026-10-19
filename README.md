@@ -805,19 +805,159 @@ Feel free to add your favorite animes too xD
 
 ## 🔫ACTION
 
-- My hero academia
+- My Hero Academia
 - Bleach
-- Dragon ball
-- Attack on titan
-- One punch man
+- Dragon Ball series
+- Attack on Titan
+- One-Punch Man
 - Hellsing series
-- Demon slayer
-- Junni Taisen
-- Assasination classroom
-- Baki
+- Demon Slayer: Kimetsu no Yaiba
+- Juuni Taisen: Zodiac War
+- Assassination Classroom
+- Baki series
 - Vinland Saga
 - Jujutsu Kaisen
 - Hell's Paradise
+- Naruto
+- Naruto: Shippuden
+- Boruto: Naruto Next Generations
+- One Piece
+- Black Clover
+- Hunter × Hunter
+- Fullmetal Alchemist: Brotherhood
+- JoJo's Bizarre Adventure
+- Chainsaw Man
+- Solo Leveling
+- Fate series
+- Code Geass
+- Tokyo Ghoul
+- Parasyte: The Maxim
+- Akame ga Kill!
+- Kill la Kill
+- Mob Psycho 100
+- Fire Force
+- Soul Eater
+- Blue Exorcist
+- D.Gray-man
+- Seraph of the End
+- Noragami
+- The Seven Deadly Sins
+- Fairy Tail
+- Edens Zero
+- Magi: The Labyrinth of Magic
+- World Trigger
+- Dandadan
+- Sakamoto Days
+- Kaiju No. 8
+- Wind Breaker
+- Tokyo Revengers
+- Kingdom
+- The God of High School
+- Tower of God
+- Record of Ragnarok
+- Kengan Ashura
+- Hajime no Ippo
+- Megalo Box
+- The Eminence in Shadow
+- Re:Zero − Starting Life in Another World
+- Mushoku Tensei: Jobless Reincarnation
+- Overlord
+- That Time I Got Reincarnated as a Slime
+- The Rising of the Shield Hero
+- Arifureta: From Commonplace to World's Strongest
+- Tsukimichi: Moonlit Fantasy
+- Cautious Hero
+- The Misfit of Demon King Academy
+- Drifters
+- Afro Samurai
+- Samurai Champloo
+- Rurouni Kenshin
+- Gintama
+- Dorohedoro
+- Golden Kamuy
+- Black Lagoon
+- Jormungand
+- Gangsta.
+- 91 Days
+- Baccano!
+- Durarara!!
+- Bungou Stray Dogs
+- Moriarty the Patriot
+- Psycho-Pass
+- Darker than Black
+- Terror in Resonance
+- Cowboy Bebop
+- Trigun
+- Outlaw Star
+- Cyberpunk: Edgerunners
+- Ghost in the Shell: Stand Alone Complex
+- Neon Genesis Evangelion
+- Gurren Lagann
+- Mobile Suit Gundam: Iron-Blooded Orphans
+- 86: Eighty-Six
+- Aldnoah.Zero
+- Eureka Seven
+- Darling in the FranXX
+- Akudama Drive
+- Vivy: Fluorite Eye's Song
+- Kabaneri of the Iron Fortress
+- Claymore
+- Berserk (1997)
+- Berserk: The Golden Age Arc
+- Dororo
+- Inuyasha
+- Yu Yu Hakusho
+- Rurouni Kenshin
+- Ushio and Tora
+- Shaman King
+- Flame of Recca
+- GetBackers
+- The Law of Ueki
+- MAR
+- K
+- Blood Blockade Battlefront
+- Kekkai Sensen
+- The Unlimited: Hyoubu Kyousuke
+- Kuroko's Basketball
+- Blue Lock
+- Haikyuu!!
+- Slam Dunk
+- Initial D
+- MF Ghost
+- Redline (movie)
+- Sword of the Stranger (movie)
+- Ninja Scroll (movie)
+- Promare (movie)
+- Sword Art Online
+- Log Horizon
+- No Game No Life
+- The Asterisk War
+- Chivalry of a Failed Knight
+- The Irregular at Magic High School
+- The Saga of Tanya the Evil
+- The Heroic Legend of Arslan
+- Rage of Bahamut: Genesis
+- Granblue Fantasy: The Animation
+- Black Butler
+- The Case Study of Vanitas
+- Undead Unluck
+- Zom 100: Bucket List of the Dead
+- Sabikui Bisco
+- Spriggan
+- The Fable
+- Lazarus
+- Ninja Kamui
+- The Elusive Samurai
+- Ragna Crimson
+- Wistoria: Wand and Sword
+- The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
+- The Wrong Way to Use Healing Magic
+- Shangri-La Frontier
+- The Unwanted Undead Adventurer
+- The New Gate
+- Bucchigiri?!
+- Viral Hit
+- The First Slam Dunk (movie)
 
 ## 🧟Horror
 
