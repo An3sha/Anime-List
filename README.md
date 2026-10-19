@@ -5,19 +5,116 @@ Hey! I'm making this for all the anime lovers. It includes anime series and movi
 Feel free to add your favorite animes too xD
 
 
-## 👁Psychological
+## 👁 Psychological
 
 - Erased
-- The promised Neverland
-- Psycho pass 
-- Id invaded
-- 7 seeds
-- Terror in resonance
-- Parasyte the maxim
-- Classroom of elite 
-- kakegurui
+- The Promised Neverland
+- Psycho-Pass
+- ID: INVADED
+- 7 Seeds
+- Terror in Resonance
+- Parasyte: The Maxim
+- Classroom of the Elite
+- Kakegurui
 - Akuma no Riddle
 - Monster
+- Death Note
+- Steins;Gate
+- Steins;Gate 0
+- Tomodachi Game
+- Kaiji: Ultimate Survivor
+- Future Diary
+- Death Parade
+- Paranoia Agent
+- Serial Experiments Lain
+- Ergo Proxy
+- Texhnolyze
+- Shinsekai Yori
+- Perfect Blue
+- Paprika
+- Higurashi: When They Cry
+- Another
+- Shiki
+- Happy Sugar Life
+- The Tatami Galaxy
+- Sonny Boy
+- Neon Genesis Evangelion
+- The End of Evangelion
+- Welcome to the NHK
+- Re:Zero − Starting Life in Another World
+- Odd Taxi
+- Pluto
+- Heavenly Delusion
+- Summertime Rendering
+- Babylon
+- Pet
+- Moriarty the Patriot
+- One Outs
+- Talentless Nana
+- Danganronpa: The Animation
+- Darwin's Game
+- Btooom!
+- Deadman Wonderland
+- High-Rise Invasion
+- Gantz
+- Bokurano
+- Kaiba
+- Ghost Hound
+- Boogiepop Phantom
+- The Perfect Insider
+- Gosick
+- Mouryou no Hako
+- Aku no Hana
+- Rainbow
+- Aoi Bungaku Series
+- The Garden of Sinners
+- Jin-Roh: The Wolf Brigade
+- The Kubikiri Cycle
+- Land of the Lustrous
+- Mononoke
+- Link Click
+- The Flowers of Evil
+- The Future Diary
+- King's Game
+- Magical Girl Raising Project
+- Juni Taisen: Zodiac War
+- The Ones Within
+- Battle Game in 5 Seconds
+- Undead Girl Murder Farce
+- ACCA: 13-Territory Inspection Dept.
+- Death Billiards
+- Memories
+- Millennium Actress
+- Colorful
+- Angel's Egg
+- Haibane Renmei
+- Kino's Journey
+- Girls' Last Tour
+- March Comes in Like a Lion
+- Scum's Wish
+- Oshi no Ko
+- Nana
+- Violet Evergarden
+- Orange
+- Fruits Basket (2019)
+- ReLIFE
+- Classroom☆Crisis
+- Zankyou no Terror
+- The Case Study of Vanitas
+- Cyberpunk: Edgerunners
+- Darker than Black
+- The Witch and the Beast
+- The Laughing Salesman
+- Mouryou no Hako
+- Noein: To Your Other Self
+- IDOLiSH7
+- The Big O
+- Kaiji: Against All Rules
+- One Outs
+- The Fable
+- Black Butler
+- Trigun
+- The Devil Is a Part-Timer!
 
 ## 🔅Supernatural
 
