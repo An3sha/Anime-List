@@ -1348,22 +1348,115 @@ Feel free to add your favorite animes too xD
 
 
 
-## 🎬Some more movies 
+## 🎬 Some more movies
+
 - Your Name
-- The Garden Of Words
-- Spirited away
-- A silent voice
-- The girl who leapt through time
+- The Garden of Words
+- Spirited Away
+- A Silent Voice
+- The Girl Who Leapt Through Time
 - Ponyo
-- A whisker away
-- Tenki no ko
-- I want to eat your pancreas
-- Patema inverted
-- Into the forest of fireflies light
-- Grave of fireflies
-- Wolf children
-- Flavours of youth 
-- Your Name
-- 5 centimetre per second
-- Suzume's door locking
-- When Marnie was there
+- A Whisker Away
+- Weathering with You (Tenki no Ko)
+- I Want to Eat Your Pancreas
+- Patema Inverted
+- Into the Forest of Fireflies' Light
+- Grave of the Fireflies
+- Wolf Children
+- Flavors of Youth
+- 5 Centimeters per Second
+- Suzume
+- When Marnie Was There
+- Howl's Moving Castle
+- Princess Mononoke
+- The Boy and the Heron
+- The Wind Rises
+- Castle in the Sky
+- My Neighbor Totoro
+- Kiki's Delivery Service
+- The Tale of the Princess Kaguya
+- The Secret World of Arrietty
+- From Up on Poppy Hill
+- Whisper of the Heart
+- Only Yesterday
+- Ocean Waves
+- The Cat Returns
+- The Red Turtle
+- The Anthem of the Heart
+- Josee, the Tiger and the Fish
+- The Tunnel to Summer, the Exit of Goodbyes
+- To Every You I've Loved Before
+- To Me, the One Who Loved You
+- Hello World
+- Ride Your Wave
+- Fireworks
+- Her Blue Sky
+- The Stranger by the Shore
+- Words Bubble Up Like Soda Pop
+- The Relative Worlds
+- Bubble
+- Drifting Home
+- The Wonderland
+- Maquia: When the Promised Flower Blooms
+- The Boy and the Beast
+- Children Who Chase Lost Voices
+- The Place Promised in Our Early Days
+- Voices of a Distant Star
+- The Last: Naruto the Movie
+- Road to Ninja: Naruto the Movie
+- Boruto: Naruto the Movie
+- One Piece Film: Z
+- One Piece Film: Gold
+- One Piece Film: Red
+- Dragon Ball Super: Broly
+- Jujutsu Kaisen 0
+- Demon Slayer: Mugen Train
+- My Hero Academia: Two Heroes
+- My Hero Academia: Heroes Rising
+- Black Clover: Sword of the Wizard King
+- The First Slam Dunk
+- Redline
+- Sword of the Stranger
+- Akira
+- Ghost in the Shell
+- Perfect Blue
+- Paprika
+- Millennium Actress
+- Tokyo Godfathers
+- The End of Evangelion
+- Evangelion: 1.0 You Are (Not) Alone
+- Evangelion: 2.0 You Can (Not) Advance
+- Evangelion: 3.0 You Can (Not) Redo
+- Evangelion: 3.0+1.0 Thrice Upon a Time
+- The Disappearance of Haruhi Suzumiya
+- Rascal Does Not Dream of a Dreaming Girl
+- Rascal Does Not Dream of a Knapsack Kid
+- Kizumonogatari I: Tekketsu
+- Kizumonogatari II: Nekketsu
+- Kizumonogatari III: Reiketsu
+- Bungo Stray Dogs: DEAD APPLE
+- Psycho-Pass: The Movie
+- Made in Abyss: Dawn of the Deep Soul
+- Made in Abyss: The Golden City of the Scorching Sun — Recap films
+- Violet Evergarden: The Movie
+- Violet Evergarden: Eternity and the Auto Memory Doll
+- Code Geass: Lelouch of the Re;surrection
+- Fate/stay night: Heaven's Feel I. Presage Flower
+- Fate/stay night: Heaven's Feel II. Lost Butterfly
+- Fate/stay night: Heaven's Feel III. Spring Song
+- Fate/Grand Order: Divine Realm of the Round Table
+- The Garden of Sinners film series
+- In This Corner of the World
+- Barefoot Gen
+- The Deer King
+- The Empire of Corpses
+- Penguin Highway
+- Fortune Favors Lady Nikuko
+- Blue Giant
+- The Concierge
+- Look Back
+- Trapezium
+- The Colors Within
+- The Imaginary
+- A New Dawn
+- ChaO
