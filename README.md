@@ -1189,16 +1189,162 @@ Feel free to add your favorite animes too xD
 
 ## 🥳ADVENTURE
 
-- One piece
+- One Piece
 - Naruto
-- Full metal alchemist
-- Hunter x hunter
-- Jojo's bizzare adventure
-- Samurai champloo
-- Bungou stray dogs
+- Fullmetal Alchemist: Brotherhood
+- Hunter × Hunter
+- JoJo's Bizarre Adventure
+- Samurai Champloo
+- Bungou Stray Dogs
 - Castlevania
 - Claymore
-- Goblin slayer
+- Goblin Slayer
+- Dragon Ball
+- Dragon Ball Z
+- Bleach
+- Fairy Tail
+- Black Clover
+- Magi: The Labyrinth of Magic
+- Magi: Adventure of Sinbad
+- Made in Abyss
+- Frieren: Beyond Journey's End
+- Delicious in Dungeon
+- The Seven Deadly Sins
+- The Heroic Legend of Arslan
+- Yona of the Dawn
+- Golden Kamuy
+- Vinland Saga
+- Dr. Stone
+- To Your Eternity
+- Ranking of Kings
+- Somali and the Forest Spirit
+- The Faraway Paladin
+- Mushoku Tensei: Jobless Reincarnation
+- That Time I Got Reincarnated as a Slime
+- Re:Zero − Starting Life in Another World
+- Overlord
+- The Rising of the Shield Hero
+- Arifureta: From Commonplace to World's Strongest
+- Tsukimichi: Moonlit Fantasy
+- KonoSuba: God's Blessing on This Wonderful World!
+- Log Horizon
+- Sword Art Online
+- No Game No Life
+- Is It Wrong to Try to Pick Up Girls in a Dungeon?
+- Shangri-La Frontier
+- The Unwanted Undead Adventurer
+- Grimgar: Ashes and Illusions
+- Record of Grancrest War
+- Rage of Bahamut: Genesis
+- Granblue Fantasy: The Animation
+- The Twelve Kingdoms
+- The Vision of Escaflowne
+- Scrapped Princess
+- Slayers
+- Rurouni Kenshin
+- Inuyasha
+- Yu Yu Hakusho
+- Ushio and Tora
+- Shaman King
+- D.Gray-man
+- Soul Eater
+- Blue Exorcist
+- Seraph of the End
+- Noragami
+- Kekkai Sensen
+- Dorohedoro
+- Trigun
+- Cowboy Bebop
+- Outlaw Star
+- Space Dandy
+- Tengen Toppa Gurren Lagann
+- Eureka Seven
+- Mobile Suit Gundam: Iron-Blooded Orphans
+- 86: Eighty-Six
+- Astra Lost in Space
+- Eden of the East
+- Deca-Dence
+- Kabaneri of the Iron Fortress
+- Cyberpunk: Edgerunners
+- Akame ga Kill!
+- Kill la Kill
+- Gintama
+- Baccano!
+- Durarara!!
+- The Case Study of Vanitas
+- Moriarty the Patriot
+- The Ancient Magus' Bride
+- The Witch and the Beast
+- Wandering Witch: The Journey of Elaina
+- Spice and Wolf
+- The World Is Still Beautiful
+- The Executioner and Her Way of Life
+- The Eminence in Shadow
+- Cautious Hero: The Hero Is Overpowered but Overly Cautious
+- The Saga of Tanya the Evil
+- The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
+- The Reincarnation of the Strongest Exorcist in Another World
+- Handyman Saitou in Another World
+- Uncle from Another World
+- Campfire Cooking in Another World with My Absurd Skill
+- Farming Life in Another World
+- The Weakest Tamer Began a Journey to Pick Up Trash
+- The New Gate
+- The Wrong Way to Use Healing Magic
+- The Great Cleric
+- Skeleton Knight in Another World
+- Beast Tamer
+- Black Summoner
+- The Aristocrat's Otherworldly Adventure
+- The Boy and the Beast (movie)
+- Princess Mononoke (movie)
+- Nausicaä of the Valley of the Wind (movie)
+- Castle in the Sky (movie)
+- Spirited Away (movie)
+- Howl's Moving Castle (movie)
+- The Boy and the Heron (movie)
+- Sword of the Stranger (movie)
+- Redline (movie)
+- The Deer King (movie)
+- Children Who Chase Lost Voices (movie)
+- The Journey of Kino
+- Kino's Journey
+- The Seven Deadly Sins: Four Knights of the Apocalypse
+- Tower of God
+- The God of High School
+- The Elusive Samurai
+- Ragna Crimson
+- Wistoria: Wand and Sword
+- The Legend of the Legendary Heroes
+- Chaika: The Coffin Princess
+- The Tower of Druaga
+- MAR
+- Radiant
+- World Trigger
+- Toriko
+- The Law of Ueki
+- GetBackers
+- Flame of Recca
+- Kekkaishi
+- Katekyo Hitman Reborn!
+- Zatch Bell!
+- Digimon Adventure
+- Pokémon
+- Yu-Gi-Oh!
+- Beyblade
+- Medabots
+- The Mysterious Cities of Gold
+- Future Boy Conan
+- Space Brothers
+- Lupin the Third
+- The Adventures of Sinbad
+- The Three-Eyed One
+- Black Butler
+- Hellsing Ultimate
+- Drifters
+- The Dungeon of Black Company
+- The Fable
+- The Apothecary Diaries
 
 
 
