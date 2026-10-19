@@ -679,16 +679,129 @@ Feel free to add your favorite animes too xD
 
 ## 💕Romance
 
-- As the moon, so beautiful
+- As the Moon, So Beautiful
 - Your Lie in April
-- A lull in the sea
+- A Lull in the Sea
 - Clannad
 - Toradora!
-- 3d girlfriend
-- Golden time
-- Darling in the franxx
-- Relife
+- 3D Kanojo: Real Girl
+- Golden Time
+- Darling in the FranXX
+- ReLIFE
 - Tsuredure Children
+- Kaguya-sama: Love Is War
+- Horimiya
+- My Dress-Up Darling
+- The Angel Next Door Spoils Me Rotten
+- Rascal Does Not Dream of Bunny Girl Senpai
+- The Dangers in My Heart
+- Fruits Basket (2019)
+- Oregairu: My Teen Romantic Comedy SNAFU
+- Maid Sama!
+- Kimi ni Todoke
+- Ao Haru Ride
+- Say "I Love You"
+- Orange
+- Lovely★Complex
+- My Love Story!!
+- Kamisama Kiss
+- Snow White with the Red Hair
+- The Pet Girl of Sakurasou
+- Plastic Memories
+- I Want to Eat Your Pancreas (movie)
+- Weathering with You (movie)
+- Your Name (movie)
+- 5 Centimeters per Second (movie)
+- The Garden of Words (movie)
+- A Silent Voice (movie)
+- Josee, the Tiger and the Fish (movie)
+- The Tunnel to Summer, the Exit of Goodbyes (movie)
+- Hello World (movie)
+- Ride Your Wave (movie)
+- The Girl Who Leapt Through Time (movie)
+- To Every You I've Loved Before (movie)
+- To Me, the One Who Loved You (movie)
+- Violet Evergarden
+- Insomniacs After School
+- The Fragrant Flower Blooms with Dignity
+- Blue Box
+- Skip and Loafer
+- The Kawai Complex Guide to Manors and Hostel Behavior
+- Wotakoi: Love Is Hard for Otaku
+- Recovery of an MMO Junkie
+- My Happy Marriage
+- The Ice Guy and His Cool Female Colleague
+- Tomo-chan Is a Girl!
+- Shikimori's Not Just a Cutie
+- Komi Can't Communicate
+- Don't Toy with Me, Miss Nagatoro
+- Uzaki-chan Wants to Hang Out!
+- Aharen-san wa Hakarenai
+- The 100 Girlfriends Who Really, Really, Really, Really, Really Love You
+- The Quintessential Quintuplets
+- Nisekoi
+- We Never Learn
+- Saekano: How to Raise a Boring Girlfriend
+- Masamune-kun's Revenge
+- Oreshura
+- Haganai: I Don't Have Many Friends
+- My First Girlfriend Is a Gal
+- Rent-a-Girlfriend
+- The Café Terrace and Its Goddesses
+- The World God Only Knows
+- Yamada-kun and the Seven Witches
+- Boarding School Juliet
+- The Duke of Death and His Maid
+- Taisho Otome Fairy Tale
+- The Saint's Magic Power Is Omnipotent
+- The Magical Revolution of the Reincarnated Princess and the Genius Young Lady
+- Ouran High School Host Club
+- Special A
+- Itazura na Kiss
+- Peach Girl
+- Bokura ga Ita
+- ef: A Tale of Memories
+- ef: A Tale of Melodies
+- White Album 2
+- Scum's Wish
+- Domestic Girlfriend
+- The World Is Still Beautiful
+- The Ancient Magus' Bride
+- Spice and Wolf
+- Eureka Seven
+- Chobits
+- Ah! My Goddess
+- Maison Ikkoku
+- The Rose of Versailles
+- Nana
+- Paradise Kiss
+- Given
+- Sasaki and Miyano
+- Bloom Into You
+- Adachi and Shimamura
+- The Whispered Words
+- I'm in Love with the Villainess
+- Yuri Is My Job!
+- Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!
+- Love After World Domination
+- Our Dating Story: The Experienced You and The Inexperienced Me
+- More than a Married Couple, but Not Lovers
+- The Foolish Angel Dances with the Devil
+- 365 Days to the Wedding
+- Anyway, I'm Falling in Love with You
+- Honey Lemon Soda
+- The Do-Over Damsel Conquers the Dragon Emperor
+- 7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!
+- Why Raeliana Ended Up at the Duke's Mansion
+- The World Is Still Beautiful
+- The Dreaming Boy Is a Realist
+- Makeine: Too Many Losing Heroines!
+- Days with My Stepsister
+- Pseudo Harem
+- Alya Sometimes Hides Her Feelings in Russian
+- Our Last Crusade or the Rise of a New World
+- The Girl I Like Forgot Her Glasses
+- The Café Terrace and Its Goddesses
 
 ## 🔫ACTION
 
