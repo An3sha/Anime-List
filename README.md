@@ -230,20 +230,120 @@ Feel free to add your favorite animes too xD
 - Arifureta
 - Fate series
 
-## 🪐Slice of life
+## ❄️Magic
 
-- Fruits Basket
-- Smile down the Runway
-- Asteroid in love
-- Teasing master Takagi san
-- Violet Evergarden
-- Somali and the forest spirit
-- Love chuunibyou and other delusions
-- March comes like a Lion
-- Beastars
-- Ascendance of a Book worm
-- Food Wars
-- Sweetness and Lightning
+- Black Clover
+- A Certain Magical Index — All series
+- Dorohedoro
+- The Rising of the Shield Hero
+- That Time I Got Reincarnated as a Slime
+- Kenja no Mago
+- Radiant
+- Overlord
+- Arifureta: From Commonplace to World's Strongest
+- Fate Series
+- Frieren: Beyond Journey's End
+- Mashle: Magic and Muscles
+- The Misfit of Demon King Academy
+- The Irregular at Magic High School
+- Wise Man's Grandchild
+- The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
+- The Reincarnation of the Strongest Exorcist in Another World
+- The Greatest Demon Lord Is Reborn as a Typical Nobody
+- The Strongest Sage with the Weakest Crest
+- The Iceblade Sorcerer Shall Rule the World
+- The Dawn of the Witch
+- The Kingdoms of Ruin
+- The Ancient Magus' Bride
+- The Seven Deadly Sins
+- Magi: The Labyrinth of Magic
+- Magi: Adventure of Sinbad
+- Fairy Tail
+- Edens Zero
+- The Seven Spellblades
+- Wistoria: Wand and Sword
+- The Water Magician
+- The Magical Revolution of the Reincarnated Princess and the Genius Young Lady
+- Reign of the Seven Spellblades
+- The Aristocrat's Otherworldly Adventure
+- I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
+- Am I Actually the Strongest?
+- The 8th Son? Are You Kidding Me?
+- By the Grace of the Gods
+- Death March to the Parallel World Rhapsody
+- In Another World with My Smartphone
+- How Not to Summon a Demon Lord
+- Tsukimichi: Moonlit Fantasy
+- The Eminence in Shadow
+- Re:Zero − Starting Life in Another World
+- Mushoku Tensei: Jobless Reincarnation
+- KonoSuba: God's Blessing on This Wonderful World!
+- The Saga of Tanya the Evil
+- Log Horizon
+- No Game No Life
+- The Faraway Paladin
+- Grimgar: Ashes and Illusions
+- The Book of Bantorra
+- The Twelve Kingdoms
+- Record of Grancrest War
+- The Sacred Blacksmith
+- Zero no Tsukaima
+- The Familiar of Zero
+- The Legend of the Legendary Heroes
+- Scrapped Princess
+- Slayers
+- Bastard!! Heavy Metal, Dark Fantasy
+- Rage of Bahamut: Genesis
+- Granblue Fantasy: The Animation
+- The Tower of Druaga
+- The Heroic Legend of Arslan
+- Yona of the Dawn
+- The Vision of Escaflowne
+- The Law of Ueki
+- MAR
+- Shaman King
+- Cardcaptor Sakura
+- Magic Knight Rayearth
+- Little Witch Academia
+- Wandering Witch: The Journey of Elaina
+- The Executioner and Her Way of Life
+- Maria the Virgin Witch
+- Witch Craft Works
+- Yamada-kun and the Seven Witches
+- Rental Magica
+- Tokyo Ravens
+- Trinity Seven
+- Aesthetica of a Rogue Hero
+- The Testament of Sister New Devil
+- Vermeil in Gold
+- Peter Grill and the Philosopher's Time
+- The Demon Sword Master of Excalibur Academy
+- The Demon Girl Next Door
+- The Reincarnation of the Strongest Onmyoji
+- The Unwanted Undead Adventurer
+- The Daily Life of the Immortal King
+- The King's Avatar
+- The Great Cleric
+- The Wrong Way to Use Healing Magic
+- Cautious Hero: The Hero Is Overpowered but Overly Cautious
+- Problem Children Are Coming from Another World, Aren't They?
+- The Dungeon of Black Company
+- Handyman Saitou in Another World
+- The Dungeon of Black Company
+- Uncle from Another World
+- The Strongest Magician in the Demon Lord's Army Was a Human
+- The Banished Former Hero Lives as He Pleases
+- The New Gate
+- Seirei Gensouki: Spirit Chronicles
+- The Re:Monster
+- The Unwanted Undead Adventurer
+- The Familiar of Zero
+- The Fruit of Evolution
+- The Hidden Dungeon Only I Can Enter
+- The Asterisk War
+- Chivalry of a Failed Knight
+- Is It Wrong to Try to Pick Up Girls in a Dungeon?
+- The Lord of the Rings: The War of the Rohirrim (fantasy film; not magic-focused)
 
 ## 🔥Sci-Fi / Mecha
 
