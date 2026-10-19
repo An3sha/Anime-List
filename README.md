@@ -568,17 +568,114 @@ Feel free to add your favorite animes too xD
 
 ## 🏟Comedy
 
-- Konosuba
-- My teen romantic comedy
-- Disasterous life of Saiki k
-- Devil is a part timer
-- School rumble
-- Haven't you heard I'm Sakamoto
+- KonoSuba: God's Blessing on This Wonderful World!
+- My Teen Romantic Comedy SNAFU
+- The Disastrous Life of Saiki K.
+- The Devil Is a Part-Timer!
+- School Rumble
+- Haven't You Heard? I'm Sakamoto
 - Bakuman
-- Cautious Hero
+- Cautious Hero: The Hero Is Overpowered but Overly Cautious
 - Noragami
-- Rikekoi
-- Rent a Girlfriend
+- Science Fell in Love, So I Tried to Prove It
+- Rent-a-Girlfriend
+- Grand Blue
+- Gintama
+- Daily Lives of High School Boys
+- Nichijou
+- Asobi Asobase
+- The Daily Life of the Immortal King
+- Monthly Girls' Nozaki-kun
+- Kaguya-sama: Love Is War
+- Prison School
+- Grand Blue Dreaming
+- The Disastrous Life of Saiki K.: Reawakened
+- Hinamatsuri
+- Wasteful Days of High School Girls
+- The Way of the Househusband
+- Spy × Family
+- Bocchi the Rock!
+- Mashle: Magic and Muscles
+- Sleepy Princess in the Demon Castle
+- Uncle from Another World
+- The Vampire Dies in No Time
+- The Eminence in Shadow
+- Combatants Will Be Dispatched!
+- Kemono Michi: Rise Up
+- Arakawa Under the Bridge
+- The Great Jahy Will Not Be Defeated!
+- Gabriel DropOut
+- Miss Kobayashi's Dragon Maid
+- Interviews with Monster Girls
+- My Bride Is a Mermaid
+- Seto no Hanayome
+- Baka and Test: Summon the Beasts
+- Seitokai Yakuindomo
+- D-Frag!
+- Chio's School Road
+- Aho-Girl
+- Shimoneta: A Boring World Where the Concept of Dirty Jokes Doesn't Exist
+- Love Tyrant
+- MM!
+- To Love-Ru
+- My First Girlfriend Is a Gal
+- Don't Toy with Me, Miss Nagatoro
+- Uzaki-chan Wants to Hang Out!
+- Komi Can't Communicate
+- Tomo-chan Is a Girl!
+- Aharen-san wa Hakarenai
+- The 100 Girlfriends Who Really, Really, Really, Really, Really Love You
+- The Quintessential Quintuplets
+- We Never Learn
+- Nisekoi
+- The Café Terrace and Its Goddesses
+- The Kawai Complex Guide to Manors and Hostel Behavior
+- Love, Chunibyo & Other Delusions!
+- The Pet Girl of Sakurasou
+- Toradora!
+- Golden Time
+- Wotakoi: Love Is Hard for Otaku
+- Recovery of an MMO Junkie
+- My Love Story!!
+- Lovely★Complex
+- The World God Only Knows
+- Yamada-kun and the Seven Witches
+- Haganai: I Don't Have Many Friends
+- Oresuki: Are You the Only One Who Loves Me?
+- Masamune-kun's Revenge
+- The Hidden Dungeon Only I Can Enter
+- I Couldn't Become a Hero, So I Reluctantly Decided to Get a Job
+- Is This a Zombie?
+- Working!!
+- Blend S
+- The Helpful Fox Senko-san
+- Barakamon
+- Silver Spoon
+- Uncle from Another World
+- Mr. Osomatsu
+- Cromartie High School
+- Detroit Metal City
+- Excel Saga
+- Panty & Stocking with Garterbelt
+- Bobobo-bo Bo-bobo
+- The Fable
+- Zom 100: Bucket List of the Dead
+- The Yakuza's Guide to Babysitting
+- Buddy Daddies
+- Play It Cool, Guys
+- My New Boss Is Goofy
+- Life Lessons with Uramichi Oniisan
+- The Ice Guy and His Cool Female Colleague
+- Tanaka-kun Is Always Listless
+- SKET Dance
+- Beelzebub
+- Toriko
+- One Punch Man
+- Mob Psycho 100
+- Kill la Kill
+- Space Dandy
+- Carole & Tuesday
+- The Disastrous Life of Saiki K. (2016)
 
 ## 💕Romance
 
