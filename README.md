@@ -118,16 +118,104 @@ Feel free to add your favorite animes too xD
 
 ## 🔅Supernatural
 
-- kyokou suiri
-- Mob psycho 100
-- Ousama game
-- Fairy gone
-- Devils line
+- Kyokou Suiri
+- Mob Psycho 100
+- Ousama Game
+- Fairy Gone
+- Devils' Line
 - Hinamatsuri
-- B the Beginning 
-- Tokyo Ghoul 
-- Devilman crybaby
-- kekkai sensen
+- B: The Beginning
+- Tokyo Ghoul
+- Devilman Crybaby
+- Kekkai Sensen
+- Noragami
+- Blue Exorcist
+- Jujutsu Kaisen
+- Chainsaw Man
+- Bleach
+- D.Gray-man
+- Blood+
+- Blood-C
+- Seraph of the End
+- The Case Study of Vanitas
+- Undead Girl Murder Farce
+- Dark Gathering
+- Mononogatari
+- Nura: Rise of the Yokai Clan
+- In/Spectre
+- The Morose Mononokean
+- Toilet-Bound Hanako-kun
+- xxxHOLiC
+- Mushishi
+- Natsume's Book of Friends
+- Kekkaishi
+- Ushio and Tora
+- Twin Star Exorcists
+- Soul Eater
+- Blue Seed
+- Claymore
+- Hellsing Ultimate
+- The Unlimited: Hyoubu Kyousuke
+- Blood Blockade Battlefront
+- Dorohedoro
+- Ajin: Demi-Human
+- Kemono Jihen
+- Yozakura Quartet
+- Darker than Black
+- Ga-Rei: Zero
+- Shaman King
+- Fate/Zero
+- Fate/stay night: Unlimited Blade Works
+- The Garden of Sinners
+- Mononoke
+- Ayakashi: Samurai Horror Tales
+- Ghost Hunt
+- Ghost Hound
+- Another
+- Shiki
+- Higurashi: When They Cry
+- The Ancient Magus' Bride
+- The Devil Is a Part-Timer!
+- Overlord
+- The Saga of Tanya the Evil
+- The Eminence in Shadow
+- Re:Zero − Starting Life in Another World
+- Mushoku Tensei: Jobless Reincarnation
+- That Time I Got Reincarnated as a Slime
+- The Misfit of Demon King Academy
+- The Seven Deadly Sins
+- xxxHOLiC
+- The Vampire Dies in No Time
+- Call of the Night
+- Vampire Knight
+- Trinity Blood
+- Dance in the Vampire Bund
+- Rosario + Vampire
+- Strike the Blood
+- Seraphim Call
+- Kabaneri of the Iron Fortress
+- Sirius the Jaeger
+- The Case Files of Lord El-Melloi II
+- The Faraway Paladin
+- The Reincarnation of the Strongest Exorcist in Another World
+- Undead Unluck
+- Zom 100: Bucket List of the Dead
+- Sankarea: Undying Love
+- Is This a Zombie?
+- High School DxD
+- To the Abandoned Sacred Beasts
+- The Legend of Legendary Heroes
+- Witch Hunter Robin
+- Witchblade
+- Chrono Crusade
+- Devil May Cry: The Animated Series
+- Demon Lord Dante
+- Kurozuka
+- Kyoukai no Kanata
+- Beyond the Boundary
+- Occultic;Nine
+- The Night Beyond the Tricornered Window
+- The Summer Hikaru Died
 
 ## ❄️Magic
 
