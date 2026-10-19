@@ -962,15 +962,114 @@ Feel free to add your favorite animes too xD
 ## 🧟Horror
 
 - Angels of Death
-- Kabaneri of the iron fortress
-- Happy sugar life
+- Kabaneri of the Iron Fortress
+- Happy Sugar Life
 - Berserk
-- Sirius the jaeger
+- Sirius the Jaeger
 - Another
-- Ajin
+- Ajin: Demi-Human
 - Blood series
 - Danganronpa
 - Elfen Lied
+- Higurashi: When They Cry
+- Shiki
+- Corpse Party: Tortured Souls
+- Hellsing Ultimate
+- Tokyo Ghoul
+- Devilman Crybaby
+- Parasyte: The Maxim
+- The Promised Neverland
+- Deadman Wonderland
+- High-Rise Invasion
+- Future Diary
+- King's Game
+- Dark Gathering
+- Mieruko-chan
+- The Summer Hikaru Died
+- Uzumaki
+- Junji Ito Collection
+- Junji Ito Maniac: Japanese Tales of the Macabre
+- Mononoke
+- Ayakashi: Samurai Horror Tales
+- Ghost Hunt
+- Ghost Hound
+- Yamishibai: Japanese Ghost Stories
+- Housing Complex C
+- Dark Cat
+- Devil Lady
+- Wicked City
+- Vampire Hunter D
+- Vampire Hunter D: Bloodlust
+- Ninja Scroll
+- Bio Hunter
+- Gyo: Tokyo Fish Attack
+- Midori: Shoujo Tsubaki
+- Perfect Blue
+- Paprika
+- Memories
+- Boogiepop Phantom
+- Serial Experiments Lain
+- Texhnolyze
+- Ergo Proxy
+- Mnemosyne: Daughters of Mnemosyne
+- Rin: Daughters of Mnemosyne
+- Ghost Stories
+- Hell Girl
+- The Garden of Sinners
+- The Lost Village
+- School-Live!
+- When Supernatural Battles Became Commonplace
+- Sankarea: Undying Love
+- Shiki
+- Dance in the Vampire Bund
+- Blood-C
+- Blood+
+- Blood: The Last Vampire
+- Trinity Blood
+- Claymore
+- Gantz
+- Drifters
+- Inuyashiki
+- Dead Mount Death Play
+- Dorohedoro
+- Made in Abyss
+- From the New World
+- The Kingdoms of Ruin
+- Darker than Black
+- Chainsaw Man
+- Hell's Paradise
+- Jujutsu Kaisen
+- Demon Slayer: Kimetsu no Yaiba
+- Re:Zero − Starting Life in Another World
+- Housing Complex C
+- Theatre of Darkness: Yamishibai
+- The Empire of Corpses
+- Shoujo Tsubaki
+- Pet Shop of Horrors
+- The Curse of Kazuo Umezu
+- The World YAMIZUKAN
+- Le Portrait de Petit Cossette
+- The Laughing Salesman
+- Mermaid Forest
+- Vampire Princess Miyu
+- The Witch's House
+- Dark Gathering
+- Zom 100: Bucket List of the Dead
+- Highschool of the Dead
+- Apocalypse Zero
+- Genocyber
+- Aragne: Sign of Vermillion
+- The Feast of Amrita
+- The Spine of Night
+- Resident Evil: Infinite Darkness
+- Resident Evil: Death Island (movie)
+- The Case Study of Vanitas
+- The Night Beyond the Tricornered Window
+- The Fable
+- Kowabon
+- Onimusha
+- The Grimm Variations
+- The Tunnel to Summer, the Exit of Goodbyes (dark supernatural elements)
 
 ## 💫Fantasy
 
