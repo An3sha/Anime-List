@@ -5,32 +5,217 @@ Hey! I'm making this for all the anime lovers. It includes anime series and movi
 Feel free to add your favorite animes too xD
 
 
-## 👁Psychological
+## 👁 Psychological
 
 - Erased
-- The promised Neverland
-- Psycho pass 
-- Id invaded
-- 7 seeds
-- Terror in resonance
-- Parasyte the maxim
-- Classroom of elite 
-- kakegurui
+- The Promised Neverland
+- Psycho-Pass
+- ID: INVADED
+- 7 Seeds
+- Terror in Resonance
+- Parasyte: The Maxim
+- Classroom of the Elite
+- Kakegurui
 - Akuma no Riddle
 - Monster
+- Death Note
+- Steins;Gate
+- Steins;Gate 0
+- Tomodachi Game
+- Kaiji: Ultimate Survivor
+- Future Diary
+- Death Parade
+- Paranoia Agent
+- Serial Experiments Lain
+- Ergo Proxy
+- Texhnolyze
+- Shinsekai Yori
+- Perfect Blue
+- Paprika
+- Higurashi: When They Cry
+- Another
+- Shiki
+- Happy Sugar Life
+- The Tatami Galaxy
+- Sonny Boy
+- Neon Genesis Evangelion
+- The End of Evangelion
+- Welcome to the NHK
+- Re:Zero − Starting Life in Another World
+- Odd Taxi
+- Pluto
+- Heavenly Delusion
+- Summertime Rendering
+- Babylon
+- Pet
+- Moriarty the Patriot
+- One Outs
+- Talentless Nana
+- Danganronpa: The Animation
+- Darwin's Game
+- Btooom!
+- Deadman Wonderland
+- High-Rise Invasion
+- Gantz
+- Bokurano
+- Kaiba
+- Ghost Hound
+- Boogiepop Phantom
+- The Perfect Insider
+- Gosick
+- Mouryou no Hako
+- Aku no Hana
+- Rainbow
+- Aoi Bungaku Series
+- The Garden of Sinners
+- Jin-Roh: The Wolf Brigade
+- The Kubikiri Cycle
+- Land of the Lustrous
+- Mononoke
+- Link Click
+- The Flowers of Evil
+- The Future Diary
+- King's Game
+- Magical Girl Raising Project
+- Juni Taisen: Zodiac War
+- The Ones Within
+- Battle Game in 5 Seconds
+- Undead Girl Murder Farce
+- ACCA: 13-Territory Inspection Dept.
+- Death Billiards
+- Memories
+- Millennium Actress
+- Colorful
+- Angel's Egg
+- Haibane Renmei
+- Kino's Journey
+- Girls' Last Tour
+- March Comes in Like a Lion
+- Scum's Wish
+- Oshi no Ko
+- Nana
+- Violet Evergarden
+- Orange
+- Fruits Basket (2019)
+- ReLIFE
+- Classroom☆Crisis
+- Zankyou no Terror
+- The Case Study of Vanitas
+- Cyberpunk: Edgerunners
+- Darker than Black
+- The Witch and the Beast
+- The Laughing Salesman
+- Mouryou no Hako
+- Noein: To Your Other Self
+- IDOLiSH7
+- The Big O
+- Kaiji: Against All Rules
+- One Outs
+- The Fable
+- Black Butler
+- Trigun
+- The Devil Is a Part-Timer!
 
 ## 🔅Supernatural
 
-- kyokou suiri
-- Mob psycho 100
-- Ousama game
-- Fairy gone
-- Devils line
+- Kyokou Suiri
+- Mob Psycho 100
+- Ousama Game
+- Fairy Gone
+- Devils' Line
 - Hinamatsuri
-- B the Beginning 
-- Tokyo Ghoul 
-- Devilman crybaby
-- kekkai sensen
+- B: The Beginning
+- Tokyo Ghoul
+- Devilman Crybaby
+- Kekkai Sensen
+- Noragami
+- Blue Exorcist
+- Jujutsu Kaisen
+- Chainsaw Man
+- Bleach
+- D.Gray-man
+- Blood+
+- Blood-C
+- Seraph of the End
+- The Case Study of Vanitas
+- Undead Girl Murder Farce
+- Dark Gathering
+- Mononogatari
+- Nura: Rise of the Yokai Clan
+- In/Spectre
+- The Morose Mononokean
+- Toilet-Bound Hanako-kun
+- xxxHOLiC
+- Mushishi
+- Natsume's Book of Friends
+- Kekkaishi
+- Ushio and Tora
+- Twin Star Exorcists
+- Soul Eater
+- Blue Seed
+- Claymore
+- Hellsing Ultimate
+- The Unlimited: Hyoubu Kyousuke
+- Blood Blockade Battlefront
+- Dorohedoro
+- Ajin: Demi-Human
+- Kemono Jihen
+- Yozakura Quartet
+- Darker than Black
+- Ga-Rei: Zero
+- Shaman King
+- Fate/Zero
+- Fate/stay night: Unlimited Blade Works
+- The Garden of Sinners
+- Mononoke
+- Ayakashi: Samurai Horror Tales
+- Ghost Hunt
+- Ghost Hound
+- Another
+- Shiki
+- Higurashi: When They Cry
+- The Ancient Magus' Bride
+- The Devil Is a Part-Timer!
+- Overlord
+- The Saga of Tanya the Evil
+- The Eminence in Shadow
+- Re:Zero − Starting Life in Another World
+- Mushoku Tensei: Jobless Reincarnation
+- That Time I Got Reincarnated as a Slime
+- The Misfit of Demon King Academy
+- The Seven Deadly Sins
+- xxxHOLiC
+- The Vampire Dies in No Time
+- Call of the Night
+- Vampire Knight
+- Trinity Blood
+- Dance in the Vampire Bund
+- Rosario + Vampire
+- Strike the Blood
+- Seraphim Call
+- Kabaneri of the Iron Fortress
+- Sirius the Jaeger
+- The Case Files of Lord El-Melloi II
+- The Faraway Paladin
+- The Reincarnation of the Strongest Exorcist in Another World
+- Undead Unluck
+- Zom 100: Bucket List of the Dead
+- Sankarea: Undying Love
+- Is This a Zombie?
+- High School DxD
+- To the Abandoned Sacred Beasts
+- The Legend of Legendary Heroes
+- Witch Hunter Robin
+- Witchblade
+- Chrono Crusade
+- Devil May Cry: The Animated Series
+- Demon Lord Dante
+- Kurozuka
+- Kyoukai no Kanata
+- Beyond the Boundary
+- Occultic;Nine
+- The Night Beyond the Tricornered Window
+- The Summer Hikaru Died
 
 ## ❄️Magic
 
@@ -45,148 +230,1233 @@ Feel free to add your favorite animes too xD
 - Arifureta
 - Fate series
 
-## 🪐Slice of life
+## ❄️Magic
 
-- Fruits Basket
-- Smile down the Runway
-- Asteroid in love
-- Teasing master Takagi san
-- Violet Evergarden
-- Somali and the forest spirit
-- Love chuunibyou and other delusions
-- March comes like a Lion
-- Beastars
-- Ascendance of a Book worm
-- Food Wars
-- Sweetness and Lightning
+- Black Clover
+- A Certain Magical Index — All series
+- Dorohedoro
+- The Rising of the Shield Hero
+- That Time I Got Reincarnated as a Slime
+- Kenja no Mago
+- Radiant
+- Overlord
+- Arifureta: From Commonplace to World's Strongest
+- Fate Series
+- Frieren: Beyond Journey's End
+- Mashle: Magic and Muscles
+- The Misfit of Demon King Academy
+- The Irregular at Magic High School
+- Wise Man's Grandchild
+- The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
+- The Reincarnation of the Strongest Exorcist in Another World
+- The Greatest Demon Lord Is Reborn as a Typical Nobody
+- The Strongest Sage with the Weakest Crest
+- The Iceblade Sorcerer Shall Rule the World
+- The Dawn of the Witch
+- The Kingdoms of Ruin
+- The Ancient Magus' Bride
+- The Seven Deadly Sins
+- Magi: The Labyrinth of Magic
+- Magi: Adventure of Sinbad
+- Fairy Tail
+- Edens Zero
+- The Seven Spellblades
+- Wistoria: Wand and Sword
+- The Water Magician
+- The Magical Revolution of the Reincarnated Princess and the Genius Young Lady
+- Reign of the Seven Spellblades
+- The Aristocrat's Otherworldly Adventure
+- I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
+- Am I Actually the Strongest?
+- The 8th Son? Are You Kidding Me?
+- By the Grace of the Gods
+- Death March to the Parallel World Rhapsody
+- In Another World with My Smartphone
+- How Not to Summon a Demon Lord
+- Tsukimichi: Moonlit Fantasy
+- The Eminence in Shadow
+- Re:Zero − Starting Life in Another World
+- Mushoku Tensei: Jobless Reincarnation
+- KonoSuba: God's Blessing on This Wonderful World!
+- The Saga of Tanya the Evil
+- Log Horizon
+- No Game No Life
+- The Faraway Paladin
+- Grimgar: Ashes and Illusions
+- The Book of Bantorra
+- The Twelve Kingdoms
+- Record of Grancrest War
+- The Sacred Blacksmith
+- Zero no Tsukaima
+- The Familiar of Zero
+- The Legend of the Legendary Heroes
+- Scrapped Princess
+- Slayers
+- Bastard!! Heavy Metal, Dark Fantasy
+- Rage of Bahamut: Genesis
+- Granblue Fantasy: The Animation
+- The Tower of Druaga
+- The Heroic Legend of Arslan
+- Yona of the Dawn
+- The Vision of Escaflowne
+- The Law of Ueki
+- MAR
+- Shaman King
+- Cardcaptor Sakura
+- Magic Knight Rayearth
+- Little Witch Academia
+- Wandering Witch: The Journey of Elaina
+- The Executioner and Her Way of Life
+- Maria the Virgin Witch
+- Witch Craft Works
+- Yamada-kun and the Seven Witches
+- Rental Magica
+- Tokyo Ravens
+- Trinity Seven
+- Aesthetica of a Rogue Hero
+- The Testament of Sister New Devil
+- Vermeil in Gold
+- Peter Grill and the Philosopher's Time
+- The Demon Sword Master of Excalibur Academy
+- The Demon Girl Next Door
+- The Reincarnation of the Strongest Onmyoji
+- The Unwanted Undead Adventurer
+- The Daily Life of the Immortal King
+- The King's Avatar
+- The Great Cleric
+- The Wrong Way to Use Healing Magic
+- Cautious Hero: The Hero Is Overpowered but Overly Cautious
+- Problem Children Are Coming from Another World, Aren't They?
+- The Dungeon of Black Company
+- Handyman Saitou in Another World
+- The Dungeon of Black Company
+- Uncle from Another World
+- The Strongest Magician in the Demon Lord's Army Was a Human
+- The Banished Former Hero Lives as He Pleases
+- The New Gate
+- Seirei Gensouki: Spirit Chronicles
+- The Re:Monster
+- The Unwanted Undead Adventurer
+- The Familiar of Zero
+- The Fruit of Evolution
+- The Hidden Dungeon Only I Can Enter
+- The Asterisk War
+- Chivalry of a Failed Knight
+- Is It Wrong to Try to Pick Up Girls in a Dungeon?
+- The Lord of the Rings: The War of the Rohirrim (fantasy film; not magic-focused)
 
 ## 🔥Sci-Fi / Mecha
 
-- Steins gate
-- Fullmetal panic
-- Neon genesis
-- God eater
-- Gurren lagann
-- Mobile suit gundam
-- Dr stone
-- Knights and magic
-- Ghost in the shell
-- Code geass
+- Steins;Gate
+- Full Metal Panic!
+- Neon Genesis Evangelion
+- God Eater
+- Gurren Lagann
+- Mobile Suit Gundam
+- Dr. Stone
+- Knight's & Magic
+- Ghost in the Shell
+- Code Geass
+- 86: Eighty-Six
+- Aldnoah.Zero
+- Vivy: Fluorite Eye's Song
+- Cyberpunk: Edgerunners
+- Psycho-Pass
+- Akudama Drive
+- Ergo Proxy
+- Serial Experiments Lain
+- Texhnolyze
+- Pluto
+- Astra Lost in Space
+- Cowboy Bebop
+- Trigun
+- Space Dandy
+- Legend of the Galactic Heroes
+- Macross
+- Eureka Seven
+- RahXephon
+- The Vision of Escaflowne
+- Darling in the Franxx
+- Aldnoah.Zero
+- SSSS.Gridman
+- SSSS.Dynazenon
+- Knights of Sidonia
+- 86: Eighty-Six — Part 2
+- Bokurano
+- Gunbuster
+- Diebuster
+- Patlabor
+- Armored Trooper Votoms
+- The Big O
+- Bubblegum Crisis
+- Muv-Luv Alternative
+- Schwarzesmarken
+- Break Blade
+- Valvrave the Liberator
+- Guilty Crown
+- Kuromukuro
+- Fafner in the Azure
+- Heavy Object
+- Obsolete
+- Megalo Box
+- Deca-Dence
+- Gargantia on the Verdurous Planet
+- Planet With
+- The Irregular at Magic High School
+- Summer Time Rendering
+- Vivy: Fluorite Eye's Song
+- ID-0
+- Dimension W
+- Noein: To Your Other Self
+- Time of Eve
+- The Orbital Children
+- Eden of the East
+- Expelled from Paradise
+- Harmony
+- Blame!
+- Appleseed
+- Appleseed Alpha
+- Vexille
+- Metropolis
+- Memories
+- Royal Space Force: The Wings of Honnêamise
+- Space Battleship Yamato 2199
+- Space Battleship Tiramisu
+- Captain Harlock
+- Outlaw Star
+- Iria: Zeiram the Animation
+- Martian Successor Nadesico
+- Gun X Sword
+- Star Driver
+- Cross Ange: Rondo of Angel and Dragon
+- The King of Braves GaoGaiGar
+- Mazinger Z
+- Getter Robo
+- Tengen Toppa Gurren Lagann: The Movie
+- Mobile Suit Gundam: Iron-Blooded Orphans
+- Mobile Suit Gundam: The Witch from Mercury
+- Mobile Suit Gundam 00
+- Mobile Suit Gundam SEED
+- Mobile Suit Gundam: The 08th MS Team
+- Mobile Suit Gundam Thunderbolt
+- Mobile Suit Gundam: The Origin
+- Mobile Suit Gundam Unicorn
+- Mobile Suit Gundam: Hathaway
+- Eureka Seven AO
+- Darling in the Franxx
+- Beatless
+- Eve no Jikan
+- Sakugan
+- Synduality: Noir
+- Metallic Rouge
+- The Gene of AI
+- Vivy: Fluorite Eye's Song
+- Trigun Stampede
+- Space☆Dandy
+- The Girl Who Leapt Through Time
+- Summer Wars
+- Paprika
+- Steins;Gate 0
+- Robotics;Notes
+- Occultic;Nine
+- Chaos;Head
+- Chaos;Child
+- Dennou Coil
+- Serial Experiments Lain
+- The Animatrix
+- Akira
+- Pluto
+- The Empire of Corpses
+- To Every You I've Loved Before
+- To Me, the One Who Loved You
+- Your Name
+- Hello World
+- The Tunnel to Summer, the Exit of Goodbyes
 
 ## ⚠️Mystery
 
-- Death note
+- Death Note
 - Trigun
-- kanata no Astra
-- Hyouka 
-- Black buttler
-- Durarara
-- kabukichou sherlock
-- Darker than black
-- Future diary
+- Kanata no Astra
+- Hyouka
+- Black Butler
+- Durarara!!
+- Kabukichou Sherlock
+- Darker than Black
+- Future Diary
+- Monster
+- Erased
+- The Promised Neverland
+- ID: INVADED
+- Psycho-Pass
+- Odd Taxi
+- Pluto
+- Moriarty the Patriot
+- Gosick
+- The Perfect Insider
+- Summertime Rendering
+- Heavenly Delusion
+- Link Click
+- Another
+- Higurashi: When They Cry
+- Shiki
+- Terror in Resonance
+- Baccano!
+- The Kubikiri Cycle
+- Beautiful Bones: Sakurako's Investigation
+- Un-Go
+- Gosick
+- Undead Girl Murder Farce
+- The Case Files of Jeweler Richard
+- The Millionaire Detective – Balance: UNLIMITED
+- The Apothecary Diaries
+- Detective Conan
+- The Kindaichi Case Files
+- Ron Kamonohashi's Forbidden Deductions
+- The File of Young Kindaichi
+- The Laughing Salesman
+- Mouryou no Hako
+- Ghost Hound
+- Paranoia Agent
+- Serial Experiments Lain
+- Ergo Proxy
+- Shinsekai Yori
+- Babylon
+- Pet
+- ACCA: 13-Territory Inspection Dept.
+- The Garden of Sinners
+- Kara no Kyoukai: The Garden of Sinners
+- Boogiepop Phantom
+- Boogiepop and Others
+- Death Parade
+- The Tatami Galaxy
+- Sonny Boy
+- Steins;Gate
+- Steins;Gate 0
+- Robotics;Notes
+- Chaos;Head
+- Chaos;Child
+- Sakurada Reset
+- Rokka: Braves of the Six Flowers
+- The Lost Village
+- Astra Lost in Space
+- Erased: Re
+- Shinrei Tantei Yakumo
+- Witch Hunter Robin
+- Spiral: The Bonds of Reasoning
+- Detective School Q
+- Black Rock Shooter
+- Eden of the East
+- The Melancholy of Haruhi Suzumiya
+- Gosick
+- The Story of Saiunkoku
+- Raven of the Inner Palace
+- The Mononokean
+- xxxHOLiC
+- Mononoke
+- Ayakashi: Samurai Horror Tales
+- The Night Beyond the Tricornered Window
+- The Summer Hikaru Died
+- The Dangers in My Heart (romance with some mystery elements)
+- Death Billiards
+- Perfect Blue (movie)
+- Paprika (movie)
+- Millennium Actress (movie)
+- The Girl Who Leapt Through Time (movie)
+- Memories (movie anthology)
+- Jin-Roh: The Wolf Brigade (movie)
 
 ## 🏟Comedy
 
-- Konosuba
-- My teen romantic comedy
-- Disasterous life of Saiki k
-- Devil is a part timer
-- School rumble
-- Haven't you heard I'm Sakamoto
+- KonoSuba: God's Blessing on This Wonderful World!
+- My Teen Romantic Comedy SNAFU
+- The Disastrous Life of Saiki K.
+- The Devil Is a Part-Timer!
+- School Rumble
+- Haven't You Heard? I'm Sakamoto
 - Bakuman
-- Cautious Hero
+- Cautious Hero: The Hero Is Overpowered but Overly Cautious
 - Noragami
-- Rikekoi
-- Rent a Girlfriend
+- Science Fell in Love, So I Tried to Prove It
+- Rent-a-Girlfriend
+- Grand Blue
+- Gintama
+- Daily Lives of High School Boys
+- Nichijou
+- Asobi Asobase
+- The Daily Life of the Immortal King
+- Monthly Girls' Nozaki-kun
+- Kaguya-sama: Love Is War
+- Prison School
+- Grand Blue Dreaming
+- The Disastrous Life of Saiki K.: Reawakened
+- Hinamatsuri
+- Wasteful Days of High School Girls
+- The Way of the Househusband
+- Spy × Family
+- Bocchi the Rock!
+- Mashle: Magic and Muscles
+- Sleepy Princess in the Demon Castle
+- Uncle from Another World
+- The Vampire Dies in No Time
+- The Eminence in Shadow
+- Combatants Will Be Dispatched!
+- Kemono Michi: Rise Up
+- Arakawa Under the Bridge
+- The Great Jahy Will Not Be Defeated!
+- Gabriel DropOut
+- Miss Kobayashi's Dragon Maid
+- Interviews with Monster Girls
+- My Bride Is a Mermaid
+- Seto no Hanayome
+- Baka and Test: Summon the Beasts
+- Seitokai Yakuindomo
+- D-Frag!
+- Chio's School Road
+- Aho-Girl
+- Shimoneta: A Boring World Where the Concept of Dirty Jokes Doesn't Exist
+- Love Tyrant
+- MM!
+- To Love-Ru
+- My First Girlfriend Is a Gal
+- Don't Toy with Me, Miss Nagatoro
+- Uzaki-chan Wants to Hang Out!
+- Komi Can't Communicate
+- Tomo-chan Is a Girl!
+- Aharen-san wa Hakarenai
+- The 100 Girlfriends Who Really, Really, Really, Really, Really Love You
+- The Quintessential Quintuplets
+- We Never Learn
+- Nisekoi
+- The Café Terrace and Its Goddesses
+- The Kawai Complex Guide to Manors and Hostel Behavior
+- Love, Chunibyo & Other Delusions!
+- The Pet Girl of Sakurasou
+- Toradora!
+- Golden Time
+- Wotakoi: Love Is Hard for Otaku
+- Recovery of an MMO Junkie
+- My Love Story!!
+- Lovely★Complex
+- The World God Only Knows
+- Yamada-kun and the Seven Witches
+- Haganai: I Don't Have Many Friends
+- Oresuki: Are You the Only One Who Loves Me?
+- Masamune-kun's Revenge
+- The Hidden Dungeon Only I Can Enter
+- I Couldn't Become a Hero, So I Reluctantly Decided to Get a Job
+- Is This a Zombie?
+- Working!!
+- Blend S
+- The Helpful Fox Senko-san
+- Barakamon
+- Silver Spoon
+- Uncle from Another World
+- Mr. Osomatsu
+- Cromartie High School
+- Detroit Metal City
+- Excel Saga
+- Panty & Stocking with Garterbelt
+- Bobobo-bo Bo-bobo
+- The Fable
+- Zom 100: Bucket List of the Dead
+- The Yakuza's Guide to Babysitting
+- Buddy Daddies
+- Play It Cool, Guys
+- My New Boss Is Goofy
+- Life Lessons with Uramichi Oniisan
+- The Ice Guy and His Cool Female Colleague
+- Tanaka-kun Is Always Listless
+- SKET Dance
+- Beelzebub
+- Toriko
+- One Punch Man
+- Mob Psycho 100
+- Kill la Kill
+- Space Dandy
+- Carole & Tuesday
+- The Disastrous Life of Saiki K. (2016)
 
 ## 💕Romance
 
-- As the moon, so beautiful
+- As the Moon, So Beautiful
 - Your Lie in April
-- A lull in the sea
+- A Lull in the Sea
 - Clannad
 - Toradora!
-- 3d girlfriend
-- Golden time
-- Darling in the franxx
-- Relife
+- 3D Kanojo: Real Girl
+- Golden Time
+- Darling in the FranXX
+- ReLIFE
 - Tsuredure Children
+- Kaguya-sama: Love Is War
+- Horimiya
+- My Dress-Up Darling
+- The Angel Next Door Spoils Me Rotten
+- Rascal Does Not Dream of Bunny Girl Senpai
+- The Dangers in My Heart
+- Fruits Basket (2019)
+- Oregairu: My Teen Romantic Comedy SNAFU
+- Maid Sama!
+- Kimi ni Todoke
+- Ao Haru Ride
+- Say "I Love You"
+- Orange
+- Lovely★Complex
+- My Love Story!!
+- Kamisama Kiss
+- Snow White with the Red Hair
+- The Pet Girl of Sakurasou
+- Plastic Memories
+- I Want to Eat Your Pancreas (movie)
+- Weathering with You (movie)
+- Your Name (movie)
+- 5 Centimeters per Second (movie)
+- The Garden of Words (movie)
+- A Silent Voice (movie)
+- Josee, the Tiger and the Fish (movie)
+- The Tunnel to Summer, the Exit of Goodbyes (movie)
+- Hello World (movie)
+- Ride Your Wave (movie)
+- The Girl Who Leapt Through Time (movie)
+- To Every You I've Loved Before (movie)
+- To Me, the One Who Loved You (movie)
+- Violet Evergarden
+- Insomniacs After School
+- The Fragrant Flower Blooms with Dignity
+- Blue Box
+- Skip and Loafer
+- The Kawai Complex Guide to Manors and Hostel Behavior
+- Wotakoi: Love Is Hard for Otaku
+- Recovery of an MMO Junkie
+- My Happy Marriage
+- The Ice Guy and His Cool Female Colleague
+- Tomo-chan Is a Girl!
+- Shikimori's Not Just a Cutie
+- Komi Can't Communicate
+- Don't Toy with Me, Miss Nagatoro
+- Uzaki-chan Wants to Hang Out!
+- Aharen-san wa Hakarenai
+- The 100 Girlfriends Who Really, Really, Really, Really, Really Love You
+- The Quintessential Quintuplets
+- Nisekoi
+- We Never Learn
+- Saekano: How to Raise a Boring Girlfriend
+- Masamune-kun's Revenge
+- Oreshura
+- Haganai: I Don't Have Many Friends
+- My First Girlfriend Is a Gal
+- Rent-a-Girlfriend
+- The Café Terrace and Its Goddesses
+- The World God Only Knows
+- Yamada-kun and the Seven Witches
+- Boarding School Juliet
+- The Duke of Death and His Maid
+- Taisho Otome Fairy Tale
+- The Saint's Magic Power Is Omnipotent
+- The Magical Revolution of the Reincarnated Princess and the Genius Young Lady
+- Ouran High School Host Club
+- Special A
+- Itazura na Kiss
+- Peach Girl
+- Bokura ga Ita
+- ef: A Tale of Memories
+- ef: A Tale of Melodies
+- White Album 2
+- Scum's Wish
+- Domestic Girlfriend
+- The World Is Still Beautiful
+- The Ancient Magus' Bride
+- Spice and Wolf
+- Eureka Seven
+- Chobits
+- Ah! My Goddess
+- Maison Ikkoku
+- The Rose of Versailles
+- Nana
+- Paradise Kiss
+- Given
+- Sasaki and Miyano
+- Bloom Into You
+- Adachi and Shimamura
+- The Whispered Words
+- I'm in Love with the Villainess
+- Yuri Is My Job!
+- Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!
+- Love After World Domination
+- Our Dating Story: The Experienced You and The Inexperienced Me
+- More than a Married Couple, but Not Lovers
+- The Foolish Angel Dances with the Devil
+- 365 Days to the Wedding
+- Anyway, I'm Falling in Love with You
+- Honey Lemon Soda
+- The Do-Over Damsel Conquers the Dragon Emperor
+- 7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!
+- Why Raeliana Ended Up at the Duke's Mansion
+- The World Is Still Beautiful
+- The Dreaming Boy Is a Realist
+- Makeine: Too Many Losing Heroines!
+- Days with My Stepsister
+- Pseudo Harem
+- Alya Sometimes Hides Her Feelings in Russian
+- Our Last Crusade or the Rise of a New World
+- The Girl I Like Forgot Her Glasses
+- The Café Terrace and Its Goddesses
 
 ## 🔫ACTION
 
-- My hero academia
+- My Hero Academia
 - Bleach
-- Dragon ball
-- Attack on titan
-- One punch man
+- Dragon Ball series
+- Attack on Titan
+- One-Punch Man
 - Hellsing series
-- Demon slayer
-- Junni Taisen
-- Assasination classroom
-- Baki
+- Demon Slayer: Kimetsu no Yaiba
+- Juuni Taisen: Zodiac War
+- Assassination Classroom
+- Baki series
 - Vinland Saga
 - Jujutsu Kaisen
 - Hell's Paradise
+- Naruto
+- Naruto: Shippuden
+- Boruto: Naruto Next Generations
+- One Piece
+- Black Clover
+- Hunter × Hunter
+- Fullmetal Alchemist: Brotherhood
+- JoJo's Bizarre Adventure
+- Chainsaw Man
+- Solo Leveling
+- Fate series
+- Code Geass
+- Tokyo Ghoul
+- Parasyte: The Maxim
+- Akame ga Kill!
+- Kill la Kill
+- Mob Psycho 100
+- Fire Force
+- Soul Eater
+- Blue Exorcist
+- D.Gray-man
+- Seraph of the End
+- Noragami
+- The Seven Deadly Sins
+- Fairy Tail
+- Edens Zero
+- Magi: The Labyrinth of Magic
+- World Trigger
+- Dandadan
+- Sakamoto Days
+- Kaiju No. 8
+- Wind Breaker
+- Tokyo Revengers
+- Kingdom
+- The God of High School
+- Tower of God
+- Record of Ragnarok
+- Kengan Ashura
+- Hajime no Ippo
+- Megalo Box
+- The Eminence in Shadow
+- Re:Zero − Starting Life in Another World
+- Mushoku Tensei: Jobless Reincarnation
+- Overlord
+- That Time I Got Reincarnated as a Slime
+- The Rising of the Shield Hero
+- Arifureta: From Commonplace to World's Strongest
+- Tsukimichi: Moonlit Fantasy
+- Cautious Hero
+- The Misfit of Demon King Academy
+- Drifters
+- Afro Samurai
+- Samurai Champloo
+- Rurouni Kenshin
+- Gintama
+- Dorohedoro
+- Golden Kamuy
+- Black Lagoon
+- Jormungand
+- Gangsta.
+- 91 Days
+- Baccano!
+- Durarara!!
+- Bungou Stray Dogs
+- Moriarty the Patriot
+- Psycho-Pass
+- Darker than Black
+- Terror in Resonance
+- Cowboy Bebop
+- Trigun
+- Outlaw Star
+- Cyberpunk: Edgerunners
+- Ghost in the Shell: Stand Alone Complex
+- Neon Genesis Evangelion
+- Gurren Lagann
+- Mobile Suit Gundam: Iron-Blooded Orphans
+- 86: Eighty-Six
+- Aldnoah.Zero
+- Eureka Seven
+- Darling in the FranXX
+- Akudama Drive
+- Vivy: Fluorite Eye's Song
+- Kabaneri of the Iron Fortress
+- Claymore
+- Berserk (1997)
+- Berserk: The Golden Age Arc
+- Dororo
+- Inuyasha
+- Yu Yu Hakusho
+- Rurouni Kenshin
+- Ushio and Tora
+- Shaman King
+- Flame of Recca
+- GetBackers
+- The Law of Ueki
+- MAR
+- K
+- Blood Blockade Battlefront
+- Kekkai Sensen
+- The Unlimited: Hyoubu Kyousuke
+- Kuroko's Basketball
+- Blue Lock
+- Haikyuu!!
+- Slam Dunk
+- Initial D
+- MF Ghost
+- Redline (movie)
+- Sword of the Stranger (movie)
+- Ninja Scroll (movie)
+- Promare (movie)
+- Sword Art Online
+- Log Horizon
+- No Game No Life
+- The Asterisk War
+- Chivalry of a Failed Knight
+- The Irregular at Magic High School
+- The Saga of Tanya the Evil
+- The Heroic Legend of Arslan
+- Rage of Bahamut: Genesis
+- Granblue Fantasy: The Animation
+- Black Butler
+- The Case Study of Vanitas
+- Undead Unluck
+- Zom 100: Bucket List of the Dead
+- Sabikui Bisco
+- Spriggan
+- The Fable
+- Lazarus
+- Ninja Kamui
+- The Elusive Samurai
+- Ragna Crimson
+- Wistoria: Wand and Sword
+- The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
+- The Wrong Way to Use Healing Magic
+- Shangri-La Frontier
+- The Unwanted Undead Adventurer
+- The New Gate
+- Bucchigiri?!
+- Viral Hit
+- The First Slam Dunk (movie)
 
 ## 🧟Horror
 
 - Angels of Death
-- Kabaneri of the iron fortress
-- Happy sugar life
+- Kabaneri of the Iron Fortress
+- Happy Sugar Life
 - Berserk
-- Sirius the jaeger
+- Sirius the Jaeger
 - Another
-- Ajin
+- Ajin: Demi-Human
 - Blood series
 - Danganronpa
 - Elfen Lied
+- Higurashi: When They Cry
+- Shiki
+- Corpse Party: Tortured Souls
+- Hellsing Ultimate
+- Tokyo Ghoul
+- Devilman Crybaby
+- Parasyte: The Maxim
+- The Promised Neverland
+- Deadman Wonderland
+- High-Rise Invasion
+- Future Diary
+- King's Game
+- Dark Gathering
+- Mieruko-chan
+- The Summer Hikaru Died
+- Uzumaki
+- Junji Ito Collection
+- Junji Ito Maniac: Japanese Tales of the Macabre
+- Mononoke
+- Ayakashi: Samurai Horror Tales
+- Ghost Hunt
+- Ghost Hound
+- Yamishibai: Japanese Ghost Stories
+- Housing Complex C
+- Dark Cat
+- Devil Lady
+- Wicked City
+- Vampire Hunter D
+- Vampire Hunter D: Bloodlust
+- Ninja Scroll
+- Bio Hunter
+- Gyo: Tokyo Fish Attack
+- Midori: Shoujo Tsubaki
+- Perfect Blue
+- Paprika
+- Memories
+- Boogiepop Phantom
+- Serial Experiments Lain
+- Texhnolyze
+- Ergo Proxy
+- Mnemosyne: Daughters of Mnemosyne
+- Rin: Daughters of Mnemosyne
+- Ghost Stories
+- Hell Girl
+- The Garden of Sinners
+- The Lost Village
+- School-Live!
+- When Supernatural Battles Became Commonplace
+- Sankarea: Undying Love
+- Shiki
+- Dance in the Vampire Bund
+- Blood-C
+- Blood+
+- Blood: The Last Vampire
+- Trinity Blood
+- Claymore
+- Gantz
+- Drifters
+- Inuyashiki
+- Dead Mount Death Play
+- Dorohedoro
+- Made in Abyss
+- From the New World
+- The Kingdoms of Ruin
+- Darker than Black
+- Chainsaw Man
+- Hell's Paradise
+- Jujutsu Kaisen
+- Demon Slayer: Kimetsu no Yaiba
+- Re:Zero − Starting Life in Another World
+- Housing Complex C
+- Theatre of Darkness: Yamishibai
+- The Empire of Corpses
+- Shoujo Tsubaki
+- Pet Shop of Horrors
+- The Curse of Kazuo Umezu
+- The World YAMIZUKAN
+- Le Portrait de Petit Cossette
+- The Laughing Salesman
+- Mermaid Forest
+- Vampire Princess Miyu
+- The Witch's House
+- Dark Gathering
+- Zom 100: Bucket List of the Dead
+- Highschool of the Dead
+- Apocalypse Zero
+- Genocyber
+- Aragne: Sign of Vermillion
+- The Feast of Amrita
+- The Spine of Night
+- Resident Evil: Infinite Darkness
+- Resident Evil: Death Island (movie)
+- The Case Study of Vanitas
+- The Night Beyond the Tricornered Window
+- The Fable
+- Kowabon
+- Onimusha
+- The Grimm Variations
+- The Tunnel to Summer, the Exit of Goodbyes (dark supernatural elements)
 
 ## 💫Fantasy
 
-- The seven deadly sins!
-- Sword art online 
-- Fairy tail
-- Re:Zero- Starting life in Another world
-- No game No life
-- Log horizon
-- How not to summon a demon lord 
+- The Seven Deadly Sins
+- Sword Art Online
+- Fairy Tail
+- Re:Zero − Starting Life in Another World
+- No Game No Life
+- Log Horizon
+- How Not to Summon a Demon Lord
 - Made in Abyss
-- Akame ga kill
-- Is it wrong to pick girls in dungeon?
+- Akame ga Kill!
+- Is It Wrong to Try to Pick Up Girls in a Dungeon?
 - The Rising of the Shield Hero
-- Welcome to Demon School
+- Welcome to Demon School! Iruma-kun
+- Frieren: Beyond Journey's End
+- Mushoku Tensei: Jobless Reincarnation
+- That Time I Got Reincarnated as a Slime
+- Overlord
+- Black Clover
+- Magi: The Labyrinth of Magic
+- Magi: Adventure of Sinbad
+- The Eminence in Shadow
+- KonoSuba: God's Blessing on This Wonderful World!
+- The Saga of Tanya the Evil
+- Cautious Hero: The Hero Is Overpowered but Overly Cautious
+- Tsukimichi: Moonlit Fantasy
+- Arifureta: From Commonplace to World's Strongest
+- The Misfit of Demon King Academy
+- The Faraway Paladin
+- Grimgar: Ashes and Illusions
+- The Ancient Magus' Bride
+- The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
+- The Reincarnation of the Strongest Exorcist in Another World
+- The Aristocrat's Otherworldly Adventure
+- The 8th Son? Are You Kidding Me?
+- By the Grace of the Gods
+- Death March to the Parallel World Rhapsody
+- In Another World with My Smartphone
+- Seirei Gensouki: Spirit Chronicles
+- The New Gate
+- The Unwanted Undead Adventurer
+- The Great Cleric
+- The Wrong Way to Use Healing Magic
+- Handyman Saitou in Another World
+- Uncle from Another World
+- The Dungeon of Black Company
+- The Fruit of Evolution
+- The Hidden Dungeon Only I Can Enter
+- The Strongest Sage with the Weakest Crest
+- The Greatest Demon Lord Is Reborn as a Typical Nobody
+- I Was Reincarnated as the 7th Prince
+- Am I Actually the Strongest?
+- The Demon Sword Master of Excalibur Academy
+- The Demon Girl Next Door
+- The Seven Spellblades
+- Wistoria: Wand and Sword
+- The Kingdoms of Ruin
+- Record of Grancrest War
+- Rage of Bahamut: Genesis
+- Granblue Fantasy: The Animation
+- The Heroic Legend of Arslan
+- Yona of the Dawn
+- The Twelve Kingdoms
+- The Vision of Escaflowne
+- Slayers
+- The Legend of the Legendary Heroes
+- The Sacred Blacksmith
+- Zero no Tsukaima
+- The Familiar of Zero
+- Scrapped Princess
+- MAR
+- Radiant
+- The Tower of Druaga
+- Chaika: The Coffin Princess
+- Rage of Bahamut: Virgin Soul
+- The Seven Deadly Sins: Four Knights of the Apocalypse
+- The Witch and the Beast
+- The Executioner and Her Way of Life
+- Wandering Witch: The Journey of Elaina
+- The Magical Revolution of the Reincarnated Princess and the Genius Young Lady
+- The Saint's Magic Power Is Omnipotent
+- Snow White with the Red Hair
+- Spice and Wolf
+- The World Is Still Beautiful
+- The Do-Over Damsel Conquers the Dragon Emperor
+- 7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!
+- Why Raeliana Ended Up at the Duke's Mansion
+- The Most Heretical Last Boss Queen
+- Villainess Level 99
+- My Next Life as a Villainess: All Routes Lead to Doom!
+- I'm the Villainess, So I'm Taming the Final Boss
+- The Weakest Tamer Began a Journey to Pick Up Trash
+- Ascendance of a Bookworm
+- Delicious in Dungeon
+- The Unwanted Undead Adventurer
+- Skeleton Knight in Another World
+- Skeleton Soldier Couldn't Protect the Dungeon (Korean webtoon; not a Japanese anime adaptation)
+- Campfire Cooking in Another World with My Absurd Skill
+- Farming Life in Another World
+- Beast Tamer
+- Black Summoner
+- The Reincarnation of the Strongest Onmyoji in Another World
+- The Banished Former Hero Lives as He Pleases
+- The Strongest Magician in the Demon Lord's Army Was a Human
+- The Water Magician
+- The Ossan Newbie Adventurer
+- Shangri-La Frontier
+- The Unwanted Undead Adventurer
+- The Boy and the Beast (movie)
+- Princess Mononoke (movie)
+- Howl's Moving Castle (movie)
+- Spirited Away (movie)
+- Castle in the Sky (movie)
+- The Cat Returns (movie)
+- The Boy and the Heron (movie)
 
 ## 🥳ADVENTURE
 
-- One piece
+- One Piece
 - Naruto
-- Full metal alchemist
-- Hunter x hunter
-- Jojo's bizzare adventure
-- Samurai champloo
-- Bungou stray dogs
+- Fullmetal Alchemist: Brotherhood
+- Hunter × Hunter
+- JoJo's Bizarre Adventure
+- Samurai Champloo
+- Bungou Stray Dogs
 - Castlevania
 - Claymore
-- Goblin slayer
+- Goblin Slayer
+- Dragon Ball
+- Dragon Ball Z
+- Bleach
+- Fairy Tail
+- Black Clover
+- Magi: The Labyrinth of Magic
+- Magi: Adventure of Sinbad
+- Made in Abyss
+- Frieren: Beyond Journey's End
+- Delicious in Dungeon
+- The Seven Deadly Sins
+- The Heroic Legend of Arslan
+- Yona of the Dawn
+- Golden Kamuy
+- Vinland Saga
+- Dr. Stone
+- To Your Eternity
+- Ranking of Kings
+- Somali and the Forest Spirit
+- The Faraway Paladin
+- Mushoku Tensei: Jobless Reincarnation
+- That Time I Got Reincarnated as a Slime
+- Re:Zero − Starting Life in Another World
+- Overlord
+- The Rising of the Shield Hero
+- Arifureta: From Commonplace to World's Strongest
+- Tsukimichi: Moonlit Fantasy
+- KonoSuba: God's Blessing on This Wonderful World!
+- Log Horizon
+- Sword Art Online
+- No Game No Life
+- Is It Wrong to Try to Pick Up Girls in a Dungeon?
+- Shangri-La Frontier
+- The Unwanted Undead Adventurer
+- Grimgar: Ashes and Illusions
+- Record of Grancrest War
+- Rage of Bahamut: Genesis
+- Granblue Fantasy: The Animation
+- The Twelve Kingdoms
+- The Vision of Escaflowne
+- Scrapped Princess
+- Slayers
+- Rurouni Kenshin
+- Inuyasha
+- Yu Yu Hakusho
+- Ushio and Tora
+- Shaman King
+- D.Gray-man
+- Soul Eater
+- Blue Exorcist
+- Seraph of the End
+- Noragami
+- Kekkai Sensen
+- Dorohedoro
+- Trigun
+- Cowboy Bebop
+- Outlaw Star
+- Space Dandy
+- Tengen Toppa Gurren Lagann
+- Eureka Seven
+- Mobile Suit Gundam: Iron-Blooded Orphans
+- 86: Eighty-Six
+- Astra Lost in Space
+- Eden of the East
+- Deca-Dence
+- Kabaneri of the Iron Fortress
+- Cyberpunk: Edgerunners
+- Akame ga Kill!
+- Kill la Kill
+- Gintama
+- Baccano!
+- Durarara!!
+- The Case Study of Vanitas
+- Moriarty the Patriot
+- The Ancient Magus' Bride
+- The Witch and the Beast
+- Wandering Witch: The Journey of Elaina
+- Spice and Wolf
+- The World Is Still Beautiful
+- The Executioner and Her Way of Life
+- The Eminence in Shadow
+- Cautious Hero: The Hero Is Overpowered but Overly Cautious
+- The Saga of Tanya the Evil
+- The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
+- The Reincarnation of the Strongest Exorcist in Another World
+- Handyman Saitou in Another World
+- Uncle from Another World
+- Campfire Cooking in Another World with My Absurd Skill
+- Farming Life in Another World
+- The Weakest Tamer Began a Journey to Pick Up Trash
+- The New Gate
+- The Wrong Way to Use Healing Magic
+- The Great Cleric
+- Skeleton Knight in Another World
+- Beast Tamer
+- Black Summoner
+- The Aristocrat's Otherworldly Adventure
+- The Boy and the Beast (movie)
+- Princess Mononoke (movie)
+- Nausicaä of the Valley of the Wind (movie)
+- Castle in the Sky (movie)
+- Spirited Away (movie)
+- Howl's Moving Castle (movie)
+- The Boy and the Heron (movie)
+- Sword of the Stranger (movie)
+- Redline (movie)
+- The Deer King (movie)
+- Children Who Chase Lost Voices (movie)
+- The Journey of Kino
+- Kino's Journey
+- The Seven Deadly Sins: Four Knights of the Apocalypse
+- Tower of God
+- The God of High School
+- The Elusive Samurai
+- Ragna Crimson
+- Wistoria: Wand and Sword
+- The Legend of the Legendary Heroes
+- Chaika: The Coffin Princess
+- The Tower of Druaga
+- MAR
+- Radiant
+- World Trigger
+- Toriko
+- The Law of Ueki
+- GetBackers
+- Flame of Recca
+- Kekkaishi
+- Katekyo Hitman Reborn!
+- Zatch Bell!
+- Digimon Adventure
+- Pokémon
+- Yu-Gi-Oh!
+- Beyblade
+- Medabots
+- The Mysterious Cities of Gold
+- Future Boy Conan
+- Space Brothers
+- Lupin the Third
+- The Adventures of Sinbad
+- The Three-Eyed One
+- Black Butler
+- Hellsing Ultimate
+- Drifters
+- The Dungeon of Black Company
+- The Fable
+- The Apothecary Diaries
 
 
 
-## 🎬Some more movies 
+## 🎬 Some more movies
+
 - Your Name
-- The Garden Of Words
-- Spirited away
-- A silent voice
-- The girl who leapt through time
+- The Garden of Words
+- Spirited Away
+- A Silent Voice
+- The Girl Who Leapt Through Time
 - Ponyo
-- A whisker away
-- Tenki no ko
-- I want to eat your pancreas
-- Patema inverted
-- Into the forest of fireflies light
-- Grave of fireflies
-- Wolf children
-- Flavours of youth 
-- Your Name
-- 5 centimetre per second
-- Suzume's door locking
-- When Marnie was there
+- A Whisker Away
+- Weathering with You (Tenki no Ko)
+- I Want to Eat Your Pancreas
+- Patema Inverted
+- Into the Forest of Fireflies' Light
+- Grave of the Fireflies
+- Wolf Children
+- Flavors of Youth
+- 5 Centimeters per Second
+- Suzume
+- When Marnie Was There
+- Howl's Moving Castle
+- Princess Mononoke
+- The Boy and the Heron
+- The Wind Rises
+- Castle in the Sky
+- My Neighbor Totoro
+- Kiki's Delivery Service
+- The Tale of the Princess Kaguya
+- The Secret World of Arrietty
+- From Up on Poppy Hill
+- Whisper of the Heart
+- Only Yesterday
+- Ocean Waves
+- The Cat Returns
+- The Red Turtle
+- The Anthem of the Heart
+- Josee, the Tiger and the Fish
+- The Tunnel to Summer, the Exit of Goodbyes
+- To Every You I've Loved Before
+- To Me, the One Who Loved You
+- Hello World
+- Ride Your Wave
+- Fireworks
+- Her Blue Sky
+- The Stranger by the Shore
+- Words Bubble Up Like Soda Pop
+- The Relative Worlds
+- Bubble
+- Drifting Home
+- The Wonderland
+- Maquia: When the Promised Flower Blooms
+- The Boy and the Beast
+- Children Who Chase Lost Voices
+- The Place Promised in Our Early Days
+- Voices of a Distant Star
+- The Last: Naruto the Movie
+- Road to Ninja: Naruto the Movie
+- Boruto: Naruto the Movie
+- One Piece Film: Z
+- One Piece Film: Gold
+- One Piece Film: Red
+- Dragon Ball Super: Broly
+- Jujutsu Kaisen 0
+- Demon Slayer: Mugen Train
+- My Hero Academia: Two Heroes
+- My Hero Academia: Heroes Rising
+- Black Clover: Sword of the Wizard King
+- The First Slam Dunk
+- Redline
+- Sword of the Stranger
+- Akira
+- Ghost in the Shell
+- Perfect Blue
+- Paprika
+- Millennium Actress
+- Tokyo Godfathers
+- The End of Evangelion
+- Evangelion: 1.0 You Are (Not) Alone
+- Evangelion: 2.0 You Can (Not) Advance
+- Evangelion: 3.0 You Can (Not) Redo
+- Evangelion: 3.0+1.0 Thrice Upon a Time
+- The Disappearance of Haruhi Suzumiya
+- Rascal Does Not Dream of a Dreaming Girl
+- Rascal Does Not Dream of a Knapsack Kid
+- Kizumonogatari I: Tekketsu
+- Kizumonogatari II: Nekketsu
+- Kizumonogatari III: Reiketsu
+- Bungo Stray Dogs: DEAD APPLE
+- Psycho-Pass: The Movie
+- Made in Abyss: Dawn of the Deep Soul
+- Made in Abyss: The Golden City of the Scorching Sun — Recap films
+- Violet Evergarden: The Movie
+- Violet Evergarden: Eternity and the Auto Memory Doll
+- Code Geass: Lelouch of the Re;surrection
+- Fate/stay night: Heaven's Feel I. Presage Flower
+- Fate/stay night: Heaven's Feel II. Lost Butterfly
+- Fate/stay night: Heaven's Feel III. Spring Song
+- Fate/Grand Order: Divine Realm of the Round Table
+- The Garden of Sinners film series
+- In This Corner of the World
+- Barefoot Gen
+- The Deer King
+- The Empire of Corpses
+- Penguin Highway
+- Fortune Favors Lady Nikuko
+- Blue Giant
+- The Concierge
+- Look Back
+- Trapezium
+- The Colors Within
+- The Imaginary
+- A New Dawn
+- ChaO
