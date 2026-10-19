@@ -475,15 +475,96 @@ Feel free to add your favorite animes too xD
 
 ## ⚠️Mystery
 
-- Death note
+- Death Note
 - Trigun
-- kanata no Astra
-- Hyouka 
-- Black buttler
-- Durarara
-- kabukichou sherlock
-- Darker than black
-- Future diary
+- Kanata no Astra
+- Hyouka
+- Black Butler
+- Durarara!!
+- Kabukichou Sherlock
+- Darker than Black
+- Future Diary
+- Monster
+- Erased
+- The Promised Neverland
+- ID: INVADED
+- Psycho-Pass
+- Odd Taxi
+- Pluto
+- Moriarty the Patriot
+- Gosick
+- The Perfect Insider
+- Summertime Rendering
+- Heavenly Delusion
+- Link Click
+- Another
+- Higurashi: When They Cry
+- Shiki
+- Terror in Resonance
+- Baccano!
+- The Kubikiri Cycle
+- Beautiful Bones: Sakurako's Investigation
+- Un-Go
+- Gosick
+- Undead Girl Murder Farce
+- The Case Files of Jeweler Richard
+- The Millionaire Detective – Balance: UNLIMITED
+- The Apothecary Diaries
+- Detective Conan
+- The Kindaichi Case Files
+- Ron Kamonohashi's Forbidden Deductions
+- The File of Young Kindaichi
+- The Laughing Salesman
+- Mouryou no Hako
+- Ghost Hound
+- Paranoia Agent
+- Serial Experiments Lain
+- Ergo Proxy
+- Shinsekai Yori
+- Babylon
+- Pet
+- ACCA: 13-Territory Inspection Dept.
+- The Garden of Sinners
+- Kara no Kyoukai: The Garden of Sinners
+- Boogiepop Phantom
+- Boogiepop and Others
+- Death Parade
+- The Tatami Galaxy
+- Sonny Boy
+- Steins;Gate
+- Steins;Gate 0
+- Robotics;Notes
+- Chaos;Head
+- Chaos;Child
+- Sakurada Reset
+- Rokka: Braves of the Six Flowers
+- The Lost Village
+- Astra Lost in Space
+- Erased: Re
+- Shinrei Tantei Yakumo
+- Witch Hunter Robin
+- Spiral: The Bonds of Reasoning
+- Detective School Q
+- Black Rock Shooter
+- Eden of the East
+- The Melancholy of Haruhi Suzumiya
+- Gosick
+- The Story of Saiunkoku
+- Raven of the Inner Palace
+- The Mononokean
+- xxxHOLiC
+- Mononoke
+- Ayakashi: Samurai Horror Tales
+- The Night Beyond the Tricornered Window
+- The Summer Hikaru Died
+- The Dangers in My Heart (romance with some mystery elements)
+- Death Billiards
+- Perfect Blue (movie)
+- Paprika (movie)
+- Millennium Actress (movie)
+- The Girl Who Leapt Through Time (movie)
+- Memories (movie anthology)
+- Jin-Roh: The Wolf Brigade (movie)
 
 ## 🏟Comedy
 
