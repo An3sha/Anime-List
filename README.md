@@ -347,16 +347,131 @@ Feel free to add your favorite animes too xD
 
 ## 🔥Sci-Fi / Mecha
 
-- Steins gate
-- Fullmetal panic
-- Neon genesis
-- God eater
-- Gurren lagann
-- Mobile suit gundam
-- Dr stone
-- Knights and magic
-- Ghost in the shell
-- Code geass
+- Steins;Gate
+- Full Metal Panic!
+- Neon Genesis Evangelion
+- God Eater
+- Gurren Lagann
+- Mobile Suit Gundam
+- Dr. Stone
+- Knight's & Magic
+- Ghost in the Shell
+- Code Geass
+- 86: Eighty-Six
+- Aldnoah.Zero
+- Vivy: Fluorite Eye's Song
+- Cyberpunk: Edgerunners
+- Psycho-Pass
+- Akudama Drive
+- Ergo Proxy
+- Serial Experiments Lain
+- Texhnolyze
+- Pluto
+- Astra Lost in Space
+- Cowboy Bebop
+- Trigun
+- Space Dandy
+- Legend of the Galactic Heroes
+- Macross
+- Eureka Seven
+- RahXephon
+- The Vision of Escaflowne
+- Darling in the Franxx
+- Aldnoah.Zero
+- SSSS.Gridman
+- SSSS.Dynazenon
+- Knights of Sidonia
+- 86: Eighty-Six — Part 2
+- Bokurano
+- Gunbuster
+- Diebuster
+- Patlabor
+- Armored Trooper Votoms
+- The Big O
+- Bubblegum Crisis
+- Muv-Luv Alternative
+- Schwarzesmarken
+- Break Blade
+- Valvrave the Liberator
+- Guilty Crown
+- Kuromukuro
+- Fafner in the Azure
+- Heavy Object
+- Obsolete
+- Megalo Box
+- Deca-Dence
+- Gargantia on the Verdurous Planet
+- Planet With
+- The Irregular at Magic High School
+- Summer Time Rendering
+- Vivy: Fluorite Eye's Song
+- ID-0
+- Dimension W
+- Noein: To Your Other Self
+- Time of Eve
+- The Orbital Children
+- Eden of the East
+- Expelled from Paradise
+- Harmony
+- Blame!
+- Appleseed
+- Appleseed Alpha
+- Vexille
+- Metropolis
+- Memories
+- Royal Space Force: The Wings of Honnêamise
+- Space Battleship Yamato 2199
+- Space Battleship Tiramisu
+- Captain Harlock
+- Outlaw Star
+- Iria: Zeiram the Animation
+- Martian Successor Nadesico
+- Gun X Sword
+- Star Driver
+- Cross Ange: Rondo of Angel and Dragon
+- The King of Braves GaoGaiGar
+- Mazinger Z
+- Getter Robo
+- Tengen Toppa Gurren Lagann: The Movie
+- Mobile Suit Gundam: Iron-Blooded Orphans
+- Mobile Suit Gundam: The Witch from Mercury
+- Mobile Suit Gundam 00
+- Mobile Suit Gundam SEED
+- Mobile Suit Gundam: The 08th MS Team
+- Mobile Suit Gundam Thunderbolt
+- Mobile Suit Gundam: The Origin
+- Mobile Suit Gundam Unicorn
+- Mobile Suit Gundam: Hathaway
+- Eureka Seven AO
+- Darling in the Franxx
+- Beatless
+- Eve no Jikan
+- Sakugan
+- Synduality: Noir
+- Metallic Rouge
+- The Gene of AI
+- Vivy: Fluorite Eye's Song
+- Trigun Stampede
+- Space☆Dandy
+- The Girl Who Leapt Through Time
+- Summer Wars
+- Paprika
+- Steins;Gate 0
+- Robotics;Notes
+- Occultic;Nine
+- Chaos;Head
+- Chaos;Child
+- Dennou Coil
+- Serial Experiments Lain
+- The Animatrix
+- Akira
+- Pluto
+- The Empire of Corpses
+- To Every You I've Loved Before
+- To Me, the One Who Loved You
+- Your Name
+- Hello World
+- The Tunnel to Summer, the Exit of Goodbyes
 
 ## ⚠️Mystery
 
