@@ -1073,18 +1073,119 @@ Feel free to add your favorite animes too xD
 
 ## 💫Fantasy
 
-- The seven deadly sins!
-- Sword art online 
-- Fairy tail
-- Re:Zero- Starting life in Another world
-- No game No life
-- Log horizon
-- How not to summon a demon lord 
+- The Seven Deadly Sins
+- Sword Art Online
+- Fairy Tail
+- Re:Zero − Starting Life in Another World
+- No Game No Life
+- Log Horizon
+- How Not to Summon a Demon Lord
 - Made in Abyss
-- Akame ga kill
-- Is it wrong to pick girls in dungeon?
+- Akame ga Kill!
+- Is It Wrong to Try to Pick Up Girls in a Dungeon?
 - The Rising of the Shield Hero
-- Welcome to Demon School
+- Welcome to Demon School! Iruma-kun
+- Frieren: Beyond Journey's End
+- Mushoku Tensei: Jobless Reincarnation
+- That Time I Got Reincarnated as a Slime
+- Overlord
+- Black Clover
+- Magi: The Labyrinth of Magic
+- Magi: Adventure of Sinbad
+- The Eminence in Shadow
+- KonoSuba: God's Blessing on This Wonderful World!
+- The Saga of Tanya the Evil
+- Cautious Hero: The Hero Is Overpowered but Overly Cautious
+- Tsukimichi: Moonlit Fantasy
+- Arifureta: From Commonplace to World's Strongest
+- The Misfit of Demon King Academy
+- The Faraway Paladin
+- Grimgar: Ashes and Illusions
+- The Ancient Magus' Bride
+- The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
+- The Reincarnation of the Strongest Exorcist in Another World
+- The Aristocrat's Otherworldly Adventure
+- The 8th Son? Are You Kidding Me?
+- By the Grace of the Gods
+- Death March to the Parallel World Rhapsody
+- In Another World with My Smartphone
+- Seirei Gensouki: Spirit Chronicles
+- The New Gate
+- The Unwanted Undead Adventurer
+- The Great Cleric
+- The Wrong Way to Use Healing Magic
+- Handyman Saitou in Another World
+- Uncle from Another World
+- The Dungeon of Black Company
+- The Fruit of Evolution
+- The Hidden Dungeon Only I Can Enter
+- The Strongest Sage with the Weakest Crest
+- The Greatest Demon Lord Is Reborn as a Typical Nobody
+- I Was Reincarnated as the 7th Prince
+- Am I Actually the Strongest?
+- The Demon Sword Master of Excalibur Academy
+- The Demon Girl Next Door
+- The Seven Spellblades
+- Wistoria: Wand and Sword
+- The Kingdoms of Ruin
+- Record of Grancrest War
+- Rage of Bahamut: Genesis
+- Granblue Fantasy: The Animation
+- The Heroic Legend of Arslan
+- Yona of the Dawn
+- The Twelve Kingdoms
+- The Vision of Escaflowne
+- Slayers
+- The Legend of the Legendary Heroes
+- The Sacred Blacksmith
+- Zero no Tsukaima
+- The Familiar of Zero
+- Scrapped Princess
+- MAR
+- Radiant
+- The Tower of Druaga
+- Chaika: The Coffin Princess
+- Rage of Bahamut: Virgin Soul
+- The Seven Deadly Sins: Four Knights of the Apocalypse
+- The Witch and the Beast
+- The Executioner and Her Way of Life
+- Wandering Witch: The Journey of Elaina
+- The Magical Revolution of the Reincarnated Princess and the Genius Young Lady
+- The Saint's Magic Power Is Omnipotent
+- Snow White with the Red Hair
+- Spice and Wolf
+- The World Is Still Beautiful
+- The Do-Over Damsel Conquers the Dragon Emperor
+- 7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!
+- Why Raeliana Ended Up at the Duke's Mansion
+- The Most Heretical Last Boss Queen
+- Villainess Level 99
+- My Next Life as a Villainess: All Routes Lead to Doom!
+- I'm the Villainess, So I'm Taming the Final Boss
+- The Weakest Tamer Began a Journey to Pick Up Trash
+- Ascendance of a Bookworm
+- Delicious in Dungeon
+- The Unwanted Undead Adventurer
+- Skeleton Knight in Another World
+- Skeleton Soldier Couldn't Protect the Dungeon (Korean webtoon; not a Japanese anime adaptation)
+- Campfire Cooking in Another World with My Absurd Skill
+- Farming Life in Another World
+- Beast Tamer
+- Black Summoner
+- The Reincarnation of the Strongest Onmyoji in Another World
+- The Banished Former Hero Lives as He Pleases
+- The Strongest Magician in the Demon Lord's Army Was a Human
+- The Water Magician
+- The Ossan Newbie Adventurer
+- Shangri-La Frontier
+- The Unwanted Undead Adventurer
+- The Boy and the Beast (movie)
+- Princess Mononoke (movie)
+- Howl's Moving Castle (movie)
+- Spirited Away (movie)
+- Castle in the Sky (movie)
+- The Cat Returns (movie)
+- The Boy and the Heron (movie)
 
 ## 🥳ADVENTURE
 
